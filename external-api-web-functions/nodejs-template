@@ -1,1 +1,141 @@
-# nodejs-temlate
+/** nodejs-template
+  *
+  * main() will be run when you invoke this action
+  * @param Cloud Functions actions accept a single parameter, which must be a JSON object.
+  * @return The output of this action, which must be a JSON object.
+  *
+  * Invocation Examples
+  * {"function_name":"localFunction", "name": "Bethany"}
+  * {"function_name":"get_affordability_data"}
+  */
+
+const os = require('os');
+let rp = require('request-promise')
+
+function localFunction(name) {
+    /* This function is a local function intended for basic 
+    diagnostics/affirmation that the system is working. 
+    
+    Invocation Parameters: {"function_name":"localFunction","name":"Harper"} */
+    
+   console.log("Name: " + name);
+   return { extract: name}; 
+} 
+
+function get_json_value() {
+     /* This function fetchs a single row of data and shows how to 
+     dereference a single json field 
+     
+     Invocation Parameters: {"function_name":"get_json_value","name":"Harper"} */
+    
+    const options = {
+        "url": "https://jsonplaceholder.typicode.com/todos/1",
+        "raw_url": "https://jsonplaceholder.typicode.com/todos/1",
+        "method": "get",
+        "headers": {
+            "apiKey": "APIKEY"
+        },
+        json: true,
+    }
+    return rp(options)
+    .then(res => {
+        return { extract : res.title }
+    })
+}
+
+function get_sample_json() {
+    /* This function fetchs a single result set of json data and displays the 
+    entire contents of the result set. 
+    
+    Invocation Parameters: {"function_name":"get_sample_json","name":"Harper"} */
+    
+    const options = {
+        "url": "https://jsonplaceholder.typicode.com/todos/1",
+        "raw_url": "https://jsonplaceholder.typicode.com/todos/1",
+        "method": "get",
+        "headers": {
+            "apiKey": "APIKEY"
+        },
+        json: true,
+    }
+    return rp(options)
+    .then(res => {
+        return { extract : res }
+    })
+}
+
+function get_json_list_count() {
+    /* This function illustrates use of the 'len' function to 
+    determine the number of rows in a list 
+    
+    Invocation Parameters: {"function_name":"get_json_list_count","name":"Harper"} */
+    
+    const options = {
+        "url": "https://jsonplaceholder.typicode.com/todos",
+        "raw_url": "https://jsonplaceholder.typicode.com/todos",
+        "method": "get",
+        "headers": {
+            "apiKey": "APIKEY"
+        },
+        json: true,
+    }
+    return rp(options).then(res => {
+        id = "";
+        console.log("ID: ", res[0].id);
+        return { extract : res.length }
+    })
+}
+
+function get_html_link_list() {
+    /* This function illustrates the building of links from data in a result set.
+    The links will show up as url links in the WA dialog. 
+    
+    Invocation Parameters: {"function_name":"get_html_link_list","name":"Harper"} */
+    
+    const options = {
+        "url": "https://jsonplaceholder.typicode.com/todos",
+        "raw_url": "https://jsonplaceholder.typicode.com/todos",
+        "method": "get",
+        "headers": {
+            "apiKey": "APIKEY"
+        },
+        json: true,
+    }
+    return rp(options).then(res => {
+        ID = "";
+        link = "";
+        for (var i = 0; i < res.length; i++ ) {
+            ID = res[i].id;
+            /** name = res["data"][i]["name"];**/
+            link = link+"<a target='_blank' href=https://jsonplaceholder.typicode.com/todos/"+ID+">"+ID+"</a>"+ os.EOL
+        }
+        return { extract : link }
+    })
+}
+
+function main(params) {
+    
+    console.log("Logging says hi");
+    console.log("Function Name: ", params['function_name']);
+    /** console.log("Name: ", params['name']); */
+    
+    if (params['function_name'] === "get_html_link_list") {
+        return get_html_link_list();
+    } else if (params['function_name'] === "localFunction") {
+        if (typeof params['name'] === 'undefined' || params['name'] === null) {
+            return localFunction('Bethany');
+        } else {
+            return localFunction(params['name']);
+        }
+    } else if (params['function_name'] === "get_json_list_count"){
+        return get_json_list_count();
+    } else if (params['function_name'] === "get_sample_json"){
+        return get_sample_json();
+    } else if (params['function_name'] === "get_json_value"){
+        return get_json_value();
+    } else if (params['function_name'] === "get_html_link_list"){
+        return get_html_link_list();
+    } else {
+        return {error: "Function call not found."}
+    }
+}
