@@ -1,0 +1,26 @@
+body, html {width: 100%; height: 100%; margin: 0; padding: 0}
+.voice {
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+    height: 40px;
+    cursor: pointer;
+};
+
+.div1{
+    width: auto;  
+    text-align: center;  
+    padding: 15px;  
+    border: 10px solid red;
+}
+img{
+    max-width: 100%;  
+    height: auto;  
+}
+body {
+    background-image: url("https://clientdemos.s3.jp-tok.cloud-object-storage.appdomain.cloud/Intelligent%20Mortgage%20Advisor%20%E2%80%93%20Home%20Lending%20Pal.png");
+    background-color: #cccccc;
+    min-height:100%;
+    background-size:cover;
+    background-blend-mode: multiply;
+   }
