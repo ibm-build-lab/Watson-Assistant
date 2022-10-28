@@ -18,7 +18,7 @@ img{
     height: auto;  
 }
 body {
-    background-image: url("https://github.com/ibm-build-lab/Watson-Assistant/blob/main/voice-over-watson-assistant/WatsonAvatar_3D_1920x1080-08ef8e970e75b5b1062ae94760265bff.gif");
+    background-image: url("voice-over-watson-assistant/WatsonAvatar_3D_1920x1080-08ef8e970e75b5b1062ae94760265bff.gif");
     background-color: #cccccc;
     min-height:100%;
     background-size:cover;
