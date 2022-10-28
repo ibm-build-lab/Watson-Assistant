@@ -18,7 +18,7 @@ img{
     height: auto;  
 }
 body {
-    background-image: url("https://clientdemos.s3.jp-tok.cloud-object-storage.appdomain.cloud/Intelligent%20Mortgage%20Advisor%20%E2%80%93%20Home%20Lending%20Pal.png");
+    background-image: url("https://github.com/ibm-build-lab/Watson-Assistant/blob/main/voice-over-watson-assistant/WatsonAvatar_3D_1920x1080-08ef8e970e75b5b1062ae94760265bff.gif");
     background-color: #cccccc;
     min-height:100%;
     background-size:cover;
