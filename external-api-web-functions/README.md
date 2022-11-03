@@ -77,8 +77,8 @@ You can easily try out your assistant by clicking on “Try it” on the right s
 Now you have successfully integrated third party App/API with your Assistant, Cheers!!
 See the use case in action:
 
-- Asset:https://techzone.ibm.com/collection/watson-assistant-for-backend-data-access
-- Demo:https://htmlpreview.github.io/?https://github.com/jaypandyaibm/WAWFuction.github.io/blob/main/AcmeCorp.html
+- Asset: https://techzone.ibm.com/collection/watson-assistant-for-backend-data-access
+- Demo: https://htmlpreview.github.io/?https://github.com/ibm-build-lab/Watson-Assistant/blob/main/external-api-web-functions/Main/AcmeCorp.html
 
 Now Your turn 
 
