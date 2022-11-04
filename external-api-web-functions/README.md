@@ -1,6 +1,6 @@
 # Watson Assistant: learn to access data from third party applications and APIs
 
-In this article, you are provided with the information needed to set up a Watson Assistant instance to augment a conversation with live data from API calls. APIs can be set up to fetch near real time data from databases and/or to fetch public information on the internet.
+In this article, you are provided with the information needed to set up a Watson Assistant instance to augment a conversation with live data from API calls. APIs can be set up to fetch near real time data from databases and/or to fetch public information on the internet. The uses can be extended to run search engine query, fetch machine learninng model output based on input, wikipedia search etc.  
 
 ## Here is a step by step guide to implement web function:
 
