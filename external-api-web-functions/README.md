@@ -20,7 +20,7 @@ The above code displays multiple conditions and when the parsed value matches th
 - Here, the “url: and raw_url:” are API endpoint URLs. 
 - API key can be setup, if needed otherwise could be removed. 
 - Request “method” could be “get”, “put” or “post. 
-- One can manipulate the return values in the return block.
+- In return function provides the response 
 
 Once done, Save the function. You will see Invoke and Invoke with Parameters as below:
 
