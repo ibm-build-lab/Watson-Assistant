@@ -7,7 +7,7 @@ Link : https://github.com/ibm-build-lab/Watson-Assistant/tree/main/voice-over-wa
 
 This voice-over-Watson configuration with Wikipedia APIs using Cloud functions known  as Webhook functions. The user can ask a question using keywords such as "tell me about" or "what is" and the Watson assistant will try to find out a short summary from Wikipedia. The best thing about Voice-over-Watson is that the user can get the answer in speech. In next section it demonstrate how to integrate all the services and configuration. 
 
-**Voice Functionality Integration with Watson Assistant **
+**Voice Functionality Integration with Watson Assistant**
 
 Let’s  connect Watson Assistant with Voice UI, so that we can communicate with the chatbot via the  microphone button 
 
