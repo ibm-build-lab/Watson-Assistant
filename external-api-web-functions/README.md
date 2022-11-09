@@ -29,12 +29,14 @@ Once done, Save the function. You will see Invoke and Invoke with Parameters as 
 
 Click on the Invoke with Parameters and add key, value pair to call a webhook as shown below. Apply the change and click on Invoke to validate it.
 
-<img src="./images/6invokepara.png" alt="6invokepara" style="width:2000px;"/>
+<img width="832" alt="image" src="https://user-images.githubusercontent.com/114666786/200752942-6ffbbcb8-2758-4b28-bd8d-da0db443094a.png">
+<!-- <img src="./images/6invokepara.png" alt="6invokepara" style="width:2000px;"/>-->
 
 Step 3: Now, select Endpoints from the left-hand side of the page and check Enable as Web Action and Save your changes.
 Copy down the URL that’s created under Web Actions, you’ll need this later.
 
-<img src="./images/7endpoint.png" alt="7endpoint" style="width:2000px;"/>
+<img width="1698" alt="image" src="https://user-images.githubusercontent.com/114666786/200753107-090b0b8f-4e75-4da1-b425-abae3143111a.png">
+<!-- <img src="./images/7endpoint.png" alt="7endpoint" style="width:2000px;"/> -->
 
 
 Now that you have the program/function ready, you would like to know how to integrate it or link it with your Watson Assistant. This is where the WebHooks come in to play.
