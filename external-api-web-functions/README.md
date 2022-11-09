@@ -28,11 +28,11 @@ The above code displays multiple conditions and when the parsed value matches th
 
 Once done, Save the function. You will see Invoke and Invoke with Parameters as below:
 
-<img src="./images/5invokepara.png" alt="5invokepara" style="width:2000px;"/> 
+<img src="./images/5invokepara.png" alt="5invokepara" style="width:700px;"/> 
 
 Click on the Invoke with Parameters and add key, value pair to call a webhook as shown below. Apply the change and click on Invoke to validate it.
 
-<img width="832" alt="image" src="https://user-images.githubusercontent.com/114666786/200752942-6ffbbcb8-2758-4b28-bd8d-da0db443094a.png">
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/114666786/200752942-6ffbbcb8-2758-4b28-bd8d-da0db443094a.png">
 <!-- <img src="./images/6invokepara.png" alt="6invokepara" style="width:2000px;"/>-->
 
 Step 3: Now, select Endpoints from the left-hand side of the page and check Enable as Web Action and Save your changes.
