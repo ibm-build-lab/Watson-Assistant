@@ -12,7 +12,7 @@ Step 1: Create an Action by providing a name and selecting a runtime environment
 
 <img src="./images/2CreateAction.png" alt="2CreateAction" style="width:2000px;"/> 
  
-Step 2: One can use the predefined API templates and modify them to create a custom program that fits a particular need. Here are templates for NodeJS and Python languages.  Simply, cut and paste the code into your Web Function action. 
+Step 2: One can use the predefined API templates and modify them to create a custom program that fits a particular need. Here are templates for [NodeJS](https://github.com/ibm-build-lab/Watson-Assistant/blob/main/external-api-web-functions/nodejs-template) and [Python](https://github.com/ibm-build-lab/Watson-Assistant/blob/main/external-api-web-functions/python-template) languages.  Simply, cut and paste the code into your Web Function action. 
 
 <img src="./images/4codetemp.png" alt="4codetemp" style="width:2000px;"/> 
 
