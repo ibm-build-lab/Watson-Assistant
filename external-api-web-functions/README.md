@@ -52,14 +52,20 @@ Let’s see how to enable it.
 Step 1 — Open Watson Assistant > Dialogs > Options > Webhooks:
 You will land on the window which looks like the one below. Now, we need to copy the endpoint of a web action we created above and paste it in the URL field along with the “.json” suffix as shown in the below screenshot:
 
-<img src="./images/8webhook.png" alt="8webhook" style="width:2000px;"/>
+<img width="822" alt="image" src="https://user-images.githubusercontent.com/114666786/200757933-f33a50f0-4aa1-4377-8b31-3fb02c560d08.png">
+<!-- <img width="754" alt="image" src="https://user-images.githubusercontent.com/114666786/200755361-864ac104-f289-46e4-911e-75e5da66f2ee.png"> -->
+<!-- <img src="./images/8webhook.png" alt="8webhook" style="width:2000px;"/> -->
 
 
 Step 2 — Build Dialog:
 Now, let’s create the conversational part. Navigate yourself to the Dialog section and click on Create Dialog. You will see how a basic dialog tree builds up. Create a new dialog node by clicking on Add Node.
+<img width="805" alt="image" src="https://user-images.githubusercontent.com/114666786/200756196-5d8eb142-0374-41a0-9230-5eca25bc9f20.png">
+
+
 Go to the dialog node you just created and click on Customize on the top right corner with gear icon. Now enable Call out to webhooks / actions and select the Call a webhook as shown below: 
 
-<img src="./images/9customize.png" alt="9customize" style="width:2000px;"/>
+<img width="1253" alt="image" src="https://user-images.githubusercontent.com/114666786/200757029-19597e02-9908-4318-9129-77852491189e.png">
+<!-- <img src="./images/9customize.png" alt="9customize" style="width:2000px;"/>-->
 
 Step 3 — Define Responses: 
  Select the intent you want to use and provide the key, value pair for a webhook call: 
@@ -75,8 +81,9 @@ Values from the repones can be extracted using the following code:
 Step 4 — Check Result:
 You can easily try out your assistant by clicking on “Try it” on the right side. Pose different questions and notice the result! Have a look at the structure $webhook_result_1 by clicking on “Manage Context” in the Try Out Pane.
 
-<img src="./images/12tryit.png" alt="12tryit" style="width:2000px;"/>
- 
+<img width="350" alt="image" src="https://user-images.githubusercontent.com/114666786/200760021-9541940e-96af-4f02-ad21-4ecb985794fe.png"> | <img width="350" alt="image" src="https://user-images.githubusercontent.com/114666786/200760819-0c44e150-3007-4b82-91a1-2ba33db42608.png">
+
+<!-- <img src="./images/12tryit.png" alt="12tryit" style="width:2000px;"/> -->
 
 Now you have successfully integrated third party App/API with your Assistant, Cheers!!
 See the use case in action:
