@@ -10,11 +10,14 @@ Web functions are available on IBM cloud > Functions > Actions
 
 Step 1: Create an Action by providing a name and selecting a runtime environment (which could be python or node.js) and click on Create:
 
-<img src="./images/2CreateAction.png" alt="2CreateAction" style="width:2000px;"/> 
- 
+<img width="1728" alt="image" src="https://user-images.githubusercontent.com/114666786/200766566-bbf778c5-d32e-438e-8ea3-29ac82f4122a.png">
+<!-- <img src="./images/2CreateAction.png" alt="2CreateAction" style="width:2000px;"/> -->
+
 Step 2: One can use the predefined API templates and modify them to create a custom program that fits a particular need. Here are templates for [NodeJS](https://github.com/ibm-build-lab/Watson-Assistant/blob/main/external-api-web-functions/nodejs-template) and [Python](https://github.com/ibm-build-lab/Watson-Assistant/blob/main/external-api-web-functions/python-template) languages.  Simply, cut and paste the code into your Web Function action. 
 
-<img width="1000" alt="image" src="https://user-images.githubusercontent.com/114666786/200752416-70860cce-225c-4fe2-9970-1ca682ef95b9.png">
+<img width="1099" alt="image" src="https://user-images.githubusercontent.com/114666786/200764232-873132a2-af14-4afe-ba6a-13b8c9744a14.png">
+<!-- <img width="1656" alt="image" src="https://user-images.githubusercontent.com/114666786/200764062-6dabe0db-51ae-45b2-a194-152fb5312da3.png">
+<img width="1000" alt="image" src="https://user-images.githubusercontent.com/114666786/200752416-70860cce-225c-4fe2-9970-1ca682ef95b9.png"> -->
 <!-- <img src="./images/4codetemp.png" alt="4codetemp" style="width:2000px;"/>  -->
 
 The above code displays multiple conditions and when the parsed value matches the parameter value the code gets executed. 
@@ -35,7 +38,8 @@ Click on the Invoke with Parameters and add key, value pair to call a webhook as
 Step 3: Now, select Endpoints from the left-hand side of the page and check Enable as Web Action and Save your changes.
 Copy down the URL that’s created under Web Actions, you’ll need this later.
 
-<img width="1698" alt="image" src="https://user-images.githubusercontent.com/114666786/200753107-090b0b8f-4e75-4da1-b425-abae3143111a.png">
+<img width="1690" alt="image" src="https://user-images.githubusercontent.com/114666786/200764884-5d29510d-3961-4fb4-aa8e-f1d61303a87f.png">
+<!-- <img width="1698" alt="image" src="https://user-images.githubusercontent.com/114666786/200753107-090b0b8f-4e75-4da1-b425-abae3143111a.png"> -->
 <!-- <img src="./images/7endpoint.png" alt="7endpoint" style="width:2000px;"/> -->
 
 
@@ -69,14 +73,16 @@ Go to the dialog node you just created and click on Customize on the top right c
 
 Step 3 — Define Responses: 
  Select the intent you want to use and provide the key, value pair for a webhook call: 
-
-<img src="./images/10keyvalue.png" alt="10keyvalue" style="width:600px;"/>
+<img width="650" alt="image" src="https://user-images.githubusercontent.com/114666786/200762174-8c374076-f45a-401e-8a7b-2d0a285749cc.png">
+<!-- <img src="./images/10keyvalue.png" alt="10keyvalue" style="width:600px;"/> -->
  
 After that name the returning variable. 
 Values from the repones can be extracted using the following code:
-<? $webhook_result_1.extract.data.count  ?>
 
-<img src="./images/11response.png" alt="11response" style="width:600px;"/>
+< ? $webhook_result_1.extract  ? >
+
+<img width="650" alt="image" src="https://user-images.githubusercontent.com/114666786/200761838-3f99b1d6-6f13-417e-a08c-46ccbfe4ca14.png">
+<!-- <img src="./images/11response.png" alt="11response" style="width:600px;"/> -->
 
 Step 4 — Check Result:
 You can easily try out your assistant by clicking on “Try it” on the right side. Pose different questions and notice the result! Have a look at the structure $webhook_result_1 by clicking on “Manage Context” in the Try Out Pane.
