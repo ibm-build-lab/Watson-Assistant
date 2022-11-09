@@ -14,7 +14,8 @@ Step 1: Create an Action by providing a name and selecting a runtime environment
  
 Step 2: One can use the predefined API templates and modify them to create a custom program that fits a particular need. Here are templates for [NodeJS](https://github.com/ibm-build-lab/Watson-Assistant/blob/main/external-api-web-functions/nodejs-template) and [Python](https://github.com/ibm-build-lab/Watson-Assistant/blob/main/external-api-web-functions/python-template) languages.  Simply, cut and paste the code into your Web Function action. 
 
-<img src="./images/4codetemp.png" alt="4codetemp" style="width:2000px;"/> 
+<img width="1000" alt="image" src="https://user-images.githubusercontent.com/114666786/200752416-70860cce-225c-4fe2-9970-1ca682ef95b9.png">
+<!-- <img src="./images/4codetemp.png" alt="4codetemp" style="width:2000px;"/>  -->
 
 The above code displays multiple conditions and when the parsed value matches the parameter value the code gets executed. 
 - Here, the “url: and raw_url:” are API endpoint URLs. 
