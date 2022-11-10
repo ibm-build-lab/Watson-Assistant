@@ -33,33 +33,33 @@ Fill the required detail, go through the term and check the box before clicking 
 
 <img width="1728" alt="image" src="https://user-images.githubusercontent.com/114666786/201130945-632e50ba-2196-4ca5-abdf-221726bc0869.png">
 
-Step5: Launch
+Step6: Launch
 Click on **Launch Watosn Assistant** to lauch the Assistant:
 
 <img width="1728" alt="image" src="https://user-images.githubusercontent.com/114666786/201132176-94fdcd48-be73-455b-a664-2fd069a09570.png">
 
-Step6: Create
+Step7: Create
 create: Name of Assistant
 Description: optional description
 Assistant Launguage: Language
 
-<img width="1728" alt="image" src="https://user-images.githubusercontent.com/114666786/201147263-06dd4da7-6d3f-4c10-a283-0d442d1f47b6.png">
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/114666786/201147263-06dd4da7-6d3f-4c10-a283-0d442d1f47b6.png">
 
 Watson Assistant can be deployed to mupliple platforms, choose one 
 
-<img width="1728" alt="image" src="https://user-images.githubusercontent.com/114666786/201148339-4f217cb3-3c39-4aa0-a113-af30b5eec150.png">
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/114666786/201148339-4f217cb3-3c39-4aa0-a113-af30b5eec150.png">
 
 Personalize the Assistant
 
-<img width="1728" alt="image" src="https://user-images.githubusercontent.com/114666786/201148948-571ece0b-c11a-4bc0-bffc-048d19455a04.png">
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/114666786/201148948-571ece0b-c11a-4bc0-bffc-048d19455a04.png">
 
 Check the preview:
 
-<img width="1728" alt="image" src="https://user-images.githubusercontent.com/114666786/201149490-422525d4-64d5-407c-918f-86be1ed0b4a5.png">
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/114666786/201149490-422525d4-64d5-407c-918f-86be1ed0b4a5.png">
 
 and create the assistant
 
-Step7: Dailog
+Step8: Dailog
 Go to Home and clcik on **Assistant Settings**
 
 <img width="1728" alt="image" src="https://user-images.githubusercontent.com/114666786/201150129-e46a7e1e-0b5e-4081-aa8f-282f5e7ce8e6.png">
