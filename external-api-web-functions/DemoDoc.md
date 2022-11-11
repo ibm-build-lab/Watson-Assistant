@@ -1,8 +1,8 @@
 Prerequisites:
-- User needs to have an IBM Cloud account
-- User needs to have a basic knowledge of the Watson Assistant
+- User needs to have an IBM Cloud account. Signup here: [Registration link](https://cloud.ibm.com/registration)
+- User needs to have a basic knowledge of the Watson Assistant. Watson Assistant Basics: [Tutorial](https://developer.ibm.com/learningpaths/get-started-watson-assistant/)
 
-Launch the Demo
+To launch the Demo [click here](https://htmlpreview.github.io/?https://github.com/ibm-build-lab/Watson-Assistant/blob/main/external-api-web-functions/Main/AcmeCorp.html)
 
 Once it is up, reach to the bottom right corner and click on below icon:
 
