@@ -19,6 +19,20 @@ This will Launch a watson Chatbot:
 
 <img width="300" alt="image" src="https://user-images.githubusercontent.com/114666786/201086081-ddbfc3b8-2817-42c3-ab0d-bc4a7722977b.png">
  
+<h2>Example Usecase:</h2>
+This example use-case covers watson assistant's dialog skills along with external API integration for _banking & finance_ domain.
+
+Watson Assistant could be used to answer frequelty asked question or most commoly asked questions or could also be used to provide explaination of domain specific terminologies.
+
+Moreover, it could also collect information from the user and fetch profile specific details from the machine learning model. 
+
+<h4>Following is the example conversation between user and watson assistant:</h4>
+
+
+
+
+
+
 <h2>Sample Questions:</h2>
 
 Now you can proceed to Ask question on the below topic:
