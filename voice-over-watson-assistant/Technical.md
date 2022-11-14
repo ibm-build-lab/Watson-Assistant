@@ -10,7 +10,9 @@ The user can prepare the questions as, per the business requirements, using diff
 These three services are prerequisites for the application. The services can be set up using an IBM cloud account by following the links below. 
 
 Watson Assistant: https://cloud.ibm.com/catalog/services/watson-assistant
+
 Speech to Text service: https://cloud.ibm.com/catalog/services/speech-to-text
+
 Text to Speech service: https://cloud.ibm.com/catalog/services/text-to-speech
 
 
