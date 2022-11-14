@@ -7,6 +7,13 @@ The user can prepare the questions as, per the business requirements, using diff
 2.	Speech to text convertor 
 3.	Text to Speech convertor
 
+These three services are prerequisites for the application. The services can be set up using an IBM cloud account by following the links below. 
+
+Watson Assistant: https://cloud.ibm.com/catalog/services/watson-assistant
+Speech to Text service: https://cloud.ibm.com/catalog/services/speech-to-text
+Text to Speech service: https://cloud.ibm.com/catalog/services/text-to-speech
+
+
 After configuring and starting the required services, we can integrate the voice solution with Watson Assistant. For this solution, we have a repository that contains HTML code for a voice UI microphone button along with Watson Assistant chatbot and JavaScript for sending the request to STT and TTS services.
 
 
