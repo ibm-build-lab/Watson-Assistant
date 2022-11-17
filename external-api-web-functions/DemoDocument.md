@@ -22,11 +22,14 @@ This will Launch a watson Chatbot:
  
  
 <h2>Example Use-case:</h2>
+
 This example use-case covers watson assistant's dialog skills along with external API integration for _banking & finance_ domain.
 
 Watson Assistant could be used to answer frequently asked question or most commonly asked questions or could also be used to provide explanation of domain specific terminologies.
 
-Moreover, it could also collect information from the user and fetch profile specific details from the machine learning model. 
+In addition to the basic chat functionality, watson assistant could also be used to collect information from the user and fetch user profile specific detail/information from the external App/API. 
+
+In this example use-case we are taking an example of a watson assistant to machine learning model integration.
 
 
 <h4>Following is the example conversation between user and watson assistant:</h4>
