@@ -7,6 +7,7 @@ The user can prepare the questions as, per the business requirements, using diff
 2.	Speech to text convertor 
 3.	Text to Speech convertor
 
+<h2>Prerequisites</h2>
 These three services are prerequisites for the application. The services can be set up using an IBM cloud account by following the links below. 
 
 Watson Assistant: https://cloud.ibm.com/catalog/services/watson-assistant
