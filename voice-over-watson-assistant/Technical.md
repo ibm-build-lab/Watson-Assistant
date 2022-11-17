@@ -21,7 +21,7 @@ After configuring and starting the required services, we can integrate the voice
 
 
 ![Watson Assistant Voice Chatbot Architecture ](https://github.com/sahil11129/Projects/blob/dd5ed95bdf6da6a79a037cbbb35c9a64d2728779/TZ%20Assets/Image/Picture%201.png)
- Watson Assistant Voice Chatbot Architecture 
+ <p style="text-align: center;">Watson Assistant Voice Chatbot Architecture</p>
  
 The architecture above introduces five features that can integrate voice functionality along with Watson Assistant.
 
