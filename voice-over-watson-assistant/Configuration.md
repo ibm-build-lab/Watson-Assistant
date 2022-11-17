@@ -62,3 +62,25 @@ Set up the URL of STT in SSTInvoke function and TTS in PlayAudio function in Voi
 
 
 After setting up all the necessary API and keys, all the services such as Watson Assistant, Speech to Text and Text to Speech are integrated into the main HTML file. No additional embedded Watson Assistant code is required. Watson Assistant can be embedded directly with JavaScript and deployed via HTML.
+
+
+<h2>Watson Assistant Voice chatbot with Wikipedia API integration</h2>
+
+
+Let's connect the voice chat bot to Wikipedia. This way, the user can ask Watson Assistant Voice Chat Bot any question, and Watson Assistant will try to find out the corresponding answer from Wikipedia using the Webhook API function. User can ask anything with tag word  “What is “ or “ Tell me about”.
+
+1.	First, we need to prepare the user input parameters for the Watson Assistant dialog box. So the webhook function fetches the text entered by the user in chatbot. For that in parameter enter value as "<?input_text?>" so it will pass the user input to webhook function. 
+
+![image 7](https://github.com/sahil11129/Projects/blob/dd5ed95bdf6da6a79a037cbbb35c9a64d2728779/TZ%20Assets/Image/7.png)
+
+
+
+2.	Now prepare the Webhook function that can access the Watson Assistant user input and pass it to the Wikipidia API. WebHook function Take the user input and remove some unwanted words like "What is", "Tell me about it" and extract important words that the user wants to know about and pass them to the Wikipedia API.
+
+
+![image 8](https://github.com/sahil11129/Projects/blob/dd5ed95bdf6da6a79a037cbbb35c9a64d2728779/TZ%20Assets/Image/8.png)
+
+Webhook Wikipedia API helps to search for important terms on Wikipedia and gives short summary about it. Short summary is the short description about the thing the user wants to know. Now let’s ask something to Watson Assistant Voice chatbot. Here answer of the question “what is America” is short summary from Wikipedia. 
+
+
+![image 9](https://github.com/sahil11129/Projects/blob/dd5ed95bdf6da6a79a037cbbb35c9a64d2728779/TZ%20Assets/Image/9.png)
