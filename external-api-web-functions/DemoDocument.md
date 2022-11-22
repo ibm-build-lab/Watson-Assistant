@@ -77,6 +77,3 @@ For project management:
  For order management:
  - _What is the delivery status?_
  - _How soon the order will get delivered?_
-
- For Google Search:
- - _Type with "search" and type your query_
