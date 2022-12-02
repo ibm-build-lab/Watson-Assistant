@@ -21,8 +21,10 @@ After configuring and starting the required services, we can integrate the voice
 
 <h2> Watson Assistant Voice Chatbot Architecture </h2>
 
-![Watson Assistant Voice Chatbot Architecture ](https://github.com/sahil11129/Projects/blob/dd5ed95bdf6da6a79a037cbbb35c9a64d2728779/TZ%20Assets/Image/Picture%201.png)
- 
+(https://user-images.githubusercontent.com/112084296/205344751-a3f6d420-2816-46cc-98be-99417938c166.jpeg)
+
+
+
 The architecture above introduces five features that can integrate voice functionality along with Watson Assistant.
 
 1.	Web page: this is the HTML page where we integrate the microphone button with Watson Assistant. This HTML file also contains a javascript file for running all the APIs and a CSS file for setting the microphone position.
