@@ -21,7 +21,8 @@ After configuring and starting the required services, we can integrate the voice
 
 <h2> Watson Assistant Voice Chatbot Architecture </h2>
 
-(https://user-images.githubusercontent.com/112084296/205344751-a3f6d420-2816-46cc-98be-99417938c166.jpeg)
+![image](https://user-images.githubusercontent.com/112084296/205344854-cfb1c325-0ce3-4584-96b6-96f5c7c063ff.jpeg)
+
 
 
 
