@@ -32,7 +32,7 @@ The architecture above introduces five features that can integrate voice functio
 
 2.	STT: This is the IBM cloud service known as Speech to Text, which converts speech to text so we can pass the text to Watson Assistant. When the user clicks the microphone button, the voice recording will start, and when the user deselects the microphone button, the recording will stop, and the audio file will be sent to the STT service. STT has a training model that can identify the words and uses NLP models. STT contains more than 70 custom models for the user.  In addition, you can create your own if needed. 
 
-3.	WA: This is Watson Assistant one of the most important parts of this architecture. The SST service passes the converted text to Watson Assistant, which gives the answers to the user queries in text form. The user needs to train and set up the intents on IBM Cloud so that Watson Assistant can understand the user queries.
+3.	WA: This is Watson Assistant one of the most important parts of this architecture. The STT service passes the converted text to Watson Assistant, which gives the answers to the user queries in text form. The user needs to train and set up the intents on IBM Cloud so that Watson Assistant can understand the user queries.
 
 4.	 TTS: This is an IBM service known as Text to Speech. It takes the text input from Watson Assistant and converts it to speech, and we can play the audio file in the user's browser so that the user can hear the voice response.
 
