@@ -19,5 +19,3 @@ Webhook Wikipedia API helps to search for important terms on Wikipedia and gives
 
 <img width="1321" alt="Screenshot 2022-12-06 at 1 22 18 PM" src="https://user-images.githubusercontent.com/112084296/205852753-a3ec46b5-4f62-47a0-bfb4-ef80cb660000.png">
 
-Demo Link: https://htmlpreview.github.io/?https://github.com/ibm-build-lab/Watson-Assistant/blob/main/voice-over-watson-assistant/Voice_bot.html
-
