@@ -38,7 +38,6 @@ The architecture above introduces five features that can integrate voice functio
 
 5.	Web function: it is also known as IBM cloud function. This function helps to retrieve data from various APIs. The user can get the response from any external API, so this web function connects the external APIs with Watson Assistant. We can say that the web function is the bridge between Watson Assistant and external services, for example. We can connect Wikipedia API with Watson Assistant, so the user can ask a question to WA and WA will get the answer from Wikipedia API.
 
-![image 2](https://github.com/sahil11129/Projects/blob/dd5ed95bdf6da6a79a037cbbb35c9a64d2728779/TZ%20Assets/Image/2.png)
-
+<img width="1320" alt="Screenshot 2022-12-06 at 1 19 17 PM" src="https://user-images.githubusercontent.com/112084296/205852242-9e7d1065-34bb-4ff3-9070-306c52ba5c3e.png">
 
 In the screenshot above, Watson Assistant is included and we can see the microphone button at the bottom right.
