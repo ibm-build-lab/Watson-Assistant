@@ -7,13 +7,13 @@ This document covers how to create new Watson Assistant instance.
 You need an IBM Cloud account.
 
 
-<h2> Step1: Login </h2>
+<h2> Step1: Login to IBM Cloud </h2>
 
-Visit https://cloud.ibm.com/ and login to your IBM Cloud account
+Visit https://cloud.ibm.com/ and login to your IBM Cloud account.
 
-<h2>Step2: Dashboard</h2>
+<h2>Step2: Go to Dashboard</h2>
 
-Navigate to the IBM cloud Dashboard: 
+Navigate to the IBM cloud Dashboard.
 
 <img width="1728" alt="image" src="https://user-images.githubusercontent.com/114666786/201118872-7de1e6a7-794c-4d10-b36c-8f3e7eaddf23.png">
 
@@ -25,7 +25,7 @@ Locate the **Create resource** button on the top right corner and on click on it
 
 <h2>Step4: Catalog</h2>
 
-In the **Catalog** field type watson assistant and click on the service. Filters on the left hand side could also be used to filter the services: 
+In the **Catalog** field type Watson Assistant and click on the service. Filters on the left hand side could also be used to filter the services: 
 
 <img width="1726" alt="image" src="https://user-images.githubusercontent.com/114666786/201123149-e40b9abc-2e32-4273-9812-00c81ce92abe.png">
 
