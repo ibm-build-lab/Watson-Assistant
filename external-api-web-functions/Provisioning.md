@@ -31,7 +31,7 @@ In the **Catalog** field type Watson Assistant and click on the service. Filters
 
 <h2>Step 5: Create</h2>
 
-Select the nearest server location and the suitable plan:
+Select the nearest server location and the suitable plan.
 
 <img width="1728" alt="image" src="https://user-images.githubusercontent.com/114666786/201129859-007064ec-859a-46e0-b7a5-4b931e26e2b3.png">
 
@@ -41,7 +41,7 @@ Fill the required detail, go through the term and check the box before clicking 
 
 <h2>Step 6: Launch</h2>
 
-Click on **Launch Watosn Assistant** to lauch the Assistant:
+Click on **Launch Watson Assistant** to lauch the Assistant:
 
 <img width="1728" alt="image" src="https://user-images.githubusercontent.com/114666786/201132176-94fdcd48-be73-455b-a664-2fd069a09570.png">
 
@@ -67,9 +67,9 @@ Check the preview:
 
 and create the assistant
 
-<h2>Step8: Dailog</h2>
+<h2>Step 8: Dialog</h2>
 
-Go to Home and clcik on **Assistant Settings**
+Go to Home and click on **Assistant Settings**
 
 <img width="1728" alt="image" src="https://user-images.githubusercontent.com/114666786/201150129-e46a7e1e-0b5e-4081-aa8f-282f5e7ce8e6.png">
 
@@ -77,7 +77,7 @@ Activate the dialogs from **Activate Dialog**
 
 <img width="1728" alt="image" src="https://user-images.githubusercontent.com/114666786/201150322-d8f054b1-c302-425c-9f2a-253ad8929adb.png">
 
-The **Dialog** section will apprear in the menu, you are ready to roll.
+The **Dialog** section will appear in the menu, you are ready to roll.
 
 <img width="245" alt="image" src="https://user-images.githubusercontent.com/114666786/201151461-ba24a2d7-ba94-4daa-9922-0f12d2710b2a.png">
 
