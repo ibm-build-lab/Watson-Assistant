@@ -1,15 +1,15 @@
-<h2> Introduction: </h2>
+<h2> Introduction </h2>
 
 This document covers how to create new Watson Assistant instance. 
 
-<h2> Prerequisite: </h2>
+<h2> Prerequisite </h2>
 
-IBM Cloud account
+You need an IBM Cloud account.
 
 
 <h2> Step1: Login </h2>
 
-Visit https://cloud.ibm.com/ and login to the IBM Cloud account
+Visit https://cloud.ibm.com/ and login to your IBM Cloud account
 
 <h2>Step2: Dashboard</h2>
 
