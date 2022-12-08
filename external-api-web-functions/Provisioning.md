@@ -17,13 +17,13 @@ Navigate to the IBM Cloud Dashboard.
 
 <img width="1728" alt="image" src="https://user-images.githubusercontent.com/114666786/201118872-7de1e6a7-794c-4d10-b36c-8f3e7eaddf23.png">
 
-<h2>Step 3: Create Resource</h2>
+<h2>Step 3: Create a Resource</h2>
 
-Locate the **Create resource** button on the top right corner and on click on it
+Locate the **Create resource** button on the top right corner and on click on it.
 
 <img width="1720" alt="image" src="https://user-images.githubusercontent.com/114666786/201121849-4d2bb989-f5d4-4cb0-9904-eb61f28802d3.png">
 
-<h2>Step 4: Catalog</h2>
+<h2>Step 4: Search for Watson Assistant</h2>
 
 In the **Catalog** field type Watson Assistant and click on the service. Filters on the left hand side could also be used to filter the services: 
 
