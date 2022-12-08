@@ -1,6 +1,6 @@
 <h2> Introduction: </h2>
 
-This Part covers how to create new watson assistance instance. 
+This document covers how to create new Watson Assistant instance. 
 
 <h2> Prerequisite: </h2>
 
