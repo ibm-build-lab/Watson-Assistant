@@ -2,34 +2,34 @@
 
 This document covers how to create new Watson Assistant instance. 
 
-<h2> Prerequisite </h2>
+<h2> Prerequisites </h2>
 
 You need an IBM Cloud account.
 
 
-<h2> Step1: Login to IBM Cloud </h2>
+<h2> Step 1: Login to IBM Cloud </h2>
 
 Visit https://cloud.ibm.com/ and login to your IBM Cloud account.
 
-<h2>Step2: Go to Dashboard</h2>
+<h2>Step 2: Go to the Dashboard</h2>
 
-Navigate to the IBM cloud Dashboard.
+Navigate to the IBM Cloud Dashboard.
 
 <img width="1728" alt="image" src="https://user-images.githubusercontent.com/114666786/201118872-7de1e6a7-794c-4d10-b36c-8f3e7eaddf23.png">
 
-<h2>Step3: Create Resource</h2>
+<h2>Step 3: Create Resource</h2>
 
 Locate the **Create resource** button on the top right corner and on click on it
 
 <img width="1720" alt="image" src="https://user-images.githubusercontent.com/114666786/201121849-4d2bb989-f5d4-4cb0-9904-eb61f28802d3.png">
 
-<h2>Step4: Catalog</h2>
+<h2>Step 4: Catalog</h2>
 
 In the **Catalog** field type Watson Assistant and click on the service. Filters on the left hand side could also be used to filter the services: 
 
 <img width="1726" alt="image" src="https://user-images.githubusercontent.com/114666786/201123149-e40b9abc-2e32-4273-9812-00c81ce92abe.png">
 
-<h2>Step5: Create</h2>
+<h2>Step 5: Create</h2>
 
 Select the nearest server location and the suitable plan:
 
@@ -39,15 +39,15 @@ Fill the required detail, go through the term and check the box before clicking 
 
 <img width="1728" alt="image" src="https://user-images.githubusercontent.com/114666786/201130945-632e50ba-2196-4ca5-abdf-221726bc0869.png">
 
-<h2>Step6: Launch</h2>
+<h2>Step 6: Launch</h2>
 
 Click on **Launch Watosn Assistant** to lauch the Assistant:
 
 <img width="1728" alt="image" src="https://user-images.githubusercontent.com/114666786/201132176-94fdcd48-be73-455b-a664-2fd069a09570.png">
 
-<h2>Step7: Create</h2>
+<h2>Step 7: Create</h2>
 
-create: Name of Assistant
+Create: Name of Assistant
 Description: optional description
 Assistant Launguage: Language
 
