@@ -5,7 +5,6 @@ This document covers Demo instructions along with an example use case which will
 
 <h2>Prerequisites</h2>
 
-- User needs to have an IBM Cloud account. [Registration link](https://cloud.ibm.com/registration)
 - User needs to have a basic knowledge of Watson Assistant. [Tutorial](https://developer.ibm.com/learningpaths/get-started-watson-assistant/)
 
 
