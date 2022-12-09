@@ -48,6 +48,7 @@ _**Watson Assistant:** Total Project count is : 1273_
 _**User:** How many projects are in trouble?_
 
 _**Watson Assistant:** Projects in Trouble:_
- -project-1
- -project-2
- -project-3
+
+_ - project-1_
+_ - project-2_
+_ - project-3_
