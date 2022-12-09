@@ -8,7 +8,7 @@ Web functions are available on IBM cloud > Functions > Actions
 
 ![functionlocation](https://github.com/jaypandyaibm/WAWFuction.github.io/blob/main/images/1function.png?raw=true)
 
-Step 1: Create an Action by providing a name and selecting a runtime environment (which could be python or node.js) and click on Create:
+Step 1: Create an Action by providing a name and selecting a runtime environment (which could be Python or Node.js) and click on Create:
 
 <img width="1728" alt="image" src="https://user-images.githubusercontent.com/114666786/200766566-bbf778c5-d32e-438e-8ea3-29ac82f4122a.png">
 <!-- <img src="./images/2CreateAction.png" alt="2CreateAction" style="width:2000px;"/> -->
