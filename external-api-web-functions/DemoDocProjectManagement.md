@@ -1,16 +1,16 @@
-<h2>Introduction:</h2>
+<h2>Introduction</h2>
 This document covers Demo instructions along with an example use case which will help you understand the ability of Watson Assistant along with the external API.
 
 
 
-<h2>Prerequisites:</h2>
+<h2>Prerequisites</h2>
 
 - User needs to have an IBM Cloud account. [Registration link](https://cloud.ibm.com/registration)
 - User needs to have a basic knowledge of Watson Assistant. [Tutorial](https://developer.ibm.com/learningpaths/get-started-watson-assistant/)
 
 
 
-<h2>Demo:</h2>
+<h2>Demo</h2>
 
 To launch the Demo [click here](https://htmlpreview.github.io/?https://github.com/ibm-build-lab/Watson-Assistant/blob/main/external-api-web-functions/Main/AcmeCorp.html)
 
