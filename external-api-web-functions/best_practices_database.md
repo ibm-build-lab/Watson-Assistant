@@ -15,9 +15,7 @@ To launch the Demo [click here](https://htmlpreview.github.io/?https://github.co
 
 Once it is up, reach to the bottom right corner and click on the icon:
 
-<img width="125" alt="image" src="https://user-images.githubusercontent.com/114666786/201085983-84d23842-1596-4265-928d-9f48511946d0.png">
- 
-
+<img width="150" alt="image" src="https://user-images.githubusercontent.com/114666786/206715011-9bc5db14-b0e3-4eee-bf57-475cc250a47b.png">
 
 This will launch a Watson Chatbot:
 
