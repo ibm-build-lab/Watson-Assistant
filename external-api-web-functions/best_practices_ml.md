@@ -5,7 +5,6 @@ This document covers Demo instructions along with an example use-case which will
 
 <h2>Prerequisites:</h2>
 
-- User needs to have an IBM Cloud account. Signup here: [Registration link](https://cloud.ibm.com/registration)
 - User needs to have a basic knowledge of the Watson Assistant. Watson Assistant Basics: [Tutorial](https://developer.ibm.com/learningpaths/get-started-watson-assistant/)
 
 
@@ -41,11 +40,7 @@ In this example use-case we are taking an example of a watson assistant to machi
 
 _**User:** Hello_
 
-_**Watson Assistant:** Hey, My name is Watson, what should I call you?_
-
-_**User:** Joe_
-
-_**Watson Assistant:** Nice to meet you, Joe. I'm here to help you with your queries. please let me know what can I do for you?_
+_**Watson Assistant:** Hi, Joe. please let me know what can I do for you?_
 
 _**User:** How much credit can i get?_
 
@@ -61,19 +56,3 @@ _**Watson Assistant:** You can improve your credibility if you:_
 - _lower your credit utilization ratio_
 - _pay bills on time_
 
-
-
-<h2>Sample Questions:</h2>
-
-Now you can proceed to Ask question on the below topic:
-
-For project management:
- - _What are the total number of projects in my project management system?_
- - _How many projects are in trouble?_
-
- For warehouse inventory management:
- - _Are there any inventory related alerts?_
-
- For order management:
- - _What is the delivery status?_
- - _How soon the order will get delivered?_
