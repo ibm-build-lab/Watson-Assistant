@@ -43,11 +43,11 @@ _**Watson Assistant:** Hey, My name is Watson, what should I call you?_
 
 _**User:** Joe_
 
-_**Watson Assistant:** Nice to meet you, Jay. Im here to help you with your purchase. please let me know what you are looking for?_
+_**Watson Assistant:** Nice to meet you, Jay. I’m here to help you with your purchase. please let me know what you are looking for?_
 
 _**User:** I am looking for flowers
 
-_**Watson Assistant:** What occassion is it?
+_**Watson Assistant:** What occasion is it?
 
 _**User:** Birthday/Anniversary/
 
@@ -59,12 +59,12 @@ _**Watson Assistant:** for which city?_
 
 _**User:** for Toronto_
 
-_**Watson Assistant:** hours of operation for Toronto are 9:00 AM to 6:00 PM monday to friday_
+_**Watson Assistant:** hours of operation for Toronto are 9:00 AM to 6:00 PM Monday to Friday_
 
 _**User:** what is my delivery status?
 
-_**Watson Assistant:** Your Order Status is as flowwing: Order 1, Order 2.
+_**Watson Assistant:** Your Order Status is as flowing: Order 1, Order 2.
 
 _**User:** Thank you!!
 
-_**Watson Assistant:** That was my pleasure 
+_**Watson Assistant:** That was my pleasure
