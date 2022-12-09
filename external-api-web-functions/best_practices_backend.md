@@ -11,11 +11,11 @@ This document covers Demo instructions along with an example use-case which will
 
 <h2>Demo:</h2>
 
-To launch the Demo [click here](https://htmlpreview.github.io/?https://github.com/ibm-build-lab/Watson-Assistant/blob/main/external-api-web-functions/Main/AcmeCorp.html)
+To launch the Demo [click here](https://web-chat.global.assistant.watson.appdomain.cloud/preview.html?region=us-south&integrationID=ca41cbda-baad-4107-9f28-d7e7f0281000&serviceInstanceID=784de2c7-96f2-467c-b510-500974e01e5d)
 
 Once it is up, reach to the bottom right corner and click on below icon:
 
-<img width="125" alt="image" src="https://user-images.githubusercontent.com/114666786/201085983-84d23842-1596-4265-928d-9f48511946d0.png">
+<img width="150" alt="image" src="https://user-images.githubusercontent.com/114666786/206714768-26b31d66-9a88-46c9-a2da-d18445f3d4f2.png">
  
 
 This will Launch a watson Chatbot:
