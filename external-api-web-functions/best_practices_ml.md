@@ -15,7 +15,7 @@ To launch the Demo [click here](https://htmlpreview.github.io/?https://github.co
 
 Once it is up, reach to the bottom right corner and click on below icon:
 
-<img width="100" alt="image" src="https://user-images.githubusercontent.com/114666786/206713789-90b8b326-041e-4b9c-be9a-2c2b1b80fecf.png">
+<img width="150" alt="image" src="https://user-images.githubusercontent.com/114666786/206713789-90b8b326-041e-4b9c-be9a-2c2b1b80fecf.png">
  
 
 This will Launch a watson Chatbot:
@@ -42,13 +42,13 @@ _**User:** Hello_
 
 _**Watson Assistant:** Hi, Joe. please let me know what can I do for you?_
 
-_**User:** How much credit can i get?_
+_**User:** How much credit can I get?_
 
 _**Watson Assistant:** Based on your profile, you can get credit between $5000 to $5500_
 
 _**User:** would my application get approved?_
 
-_**Watson Assistant:** Based o your profile, approval chances are 78 %._
+_**Watson Assistant:** Based on your profile, approval chances are 78 %._
 
 _**User:** how can I improve my chances?_
 
