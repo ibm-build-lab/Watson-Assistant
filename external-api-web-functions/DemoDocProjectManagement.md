@@ -1,5 +1,5 @@
 <h2>Introduction:</h2>
-This document covers Demo instructions along with an example use-case which will help you understand the ability of the watson assistant along with the external API.
+This document covers Demo instructions along with an example use case which will help you understand the ability of Watson Assistant along with the external API.
 
 
 
@@ -20,7 +20,7 @@ Once it is up, reach to the bottom right corner and click on below icon:
  
 
 
-This will Launch a watson Chatbot:
+This will Launch a Watson Chatbot:
 
 <img width="300" alt="image" src="https://user-images.githubusercontent.com/114666786/201086081-ddbfc3b8-2817-42c3-ab0d-bc4a7722977b.png">
  
@@ -28,13 +28,13 @@ This will Launch a watson Chatbot:
 
 <h2>Example Use-case:</h2>
 
-This example use-case covers watson assistant's dialog skills along with external API integration for _Project Management_.
+This example use case covers Watson Assistant's dialog skills along with external API integration for _Project Management_.
 
-Watson Assistant could be used to answer frequently asked question or most commonly asked questions or could also be used to provide explanation of domain specific terminologies.
+Watson Assistant could be used to answer frequently asked question or most commonly asked questions or could also be used to provide explanation of domain specific terms.
 
-In addition to the basic chat functionality, watson assistant could also be used to collect information from the user and fetch user profile specific detail/information from the external App/API. 
+In addition to the basic chat functionality, Watson Assistant could also be used to collect information from the user and fetch user profile specific detail/information from the external app/API. 
 
-In this example use-case we are taking an example of a watson assistant to Project Managment backend integration.
+In this example use case we are taking an example of a Watson Assistant to Project Management backend integration.
 
 
 
