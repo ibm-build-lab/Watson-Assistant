@@ -44,7 +44,7 @@ Copy down the URL that’s created under Web Actions, you’ll need this later.
 <!-- <img src="./images/7endpoint.png" alt="7endpoint" style="width:2000px;"/> -->
 
 
-Now that you have the program/function ready, you would like to know how to integrate it or link it with your Watson Assistant. This is where WebHooks come into play.
+Now that you have the program/function ready, you would like to know how to integrate it or link it with your Watson Assistant. This is where Webhooks come into play.
 
 Webhooks are used to bridge two applications/programs/functions which get triggered by a specific event and transfer data on a near real-time basis.
 
