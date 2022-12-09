@@ -15,7 +15,7 @@ To launch the Demo [click here](https://web-chat.global.assistant.watson.appdoma
 
 Once it is up, reach to the bottom right corner and click on below icon:
 
-<img width="150" alt="image" src="https://user-images.githubusercontent.com/114666786/206714768-26b31d66-9a88-46c9-a2da-d18445f3d4f2.png">
+<img width="100" alt="image" src="https://user-images.githubusercontent.com/114666786/206714768-26b31d66-9a88-46c9-a2da-d18445f3d4f2.png">
  
 
 This will Launch a watson Chatbot:
