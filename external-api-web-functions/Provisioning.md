@@ -29,7 +29,7 @@ In the **Catalog** field type Watson Assistant and click on the service. Filters
 
 <img width="1726" alt="image" src="https://user-images.githubusercontent.com/114666786/201123149-e40b9abc-2e32-4273-9812-00c81ce92abe.png">
 
-<h2>Step 5: Create</h2>
+<h2>Step 5: Provision Watson Assistant Service</h2>
 
 Select the nearest server location and the suitable plan.
 
@@ -39,21 +39,21 @@ Fill the required detail, go through the term and check the box before clicking 
 
 <img width="1728" alt="image" src="https://user-images.githubusercontent.com/114666786/201130945-632e50ba-2196-4ca5-abdf-221726bc0869.png">
 
-<h2>Step 6: Launch</h2>
+<h2>Step 6: Launch Watson Assistant Instance</h2>
 
-Click on **Launch Watson Assistant** to lauch the Assistant:
+Click on **Launch Watson Assistant** to launch the Assistant:
 
 <img width="1728" alt="image" src="https://user-images.githubusercontent.com/114666786/201132176-94fdcd48-be73-455b-a664-2fd069a09570.png">
 
-<h2>Step 7: Create</h2>
+<h2>Step 7: Create First Assistant</h2>
 
 Create: Name of Assistant
 Description: optional description
-Assistant Launguage: Language
+Assistant Language: Language
 
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/114666786/201147263-06dd4da7-6d3f-4c10-a283-0d442d1f47b6.png">
 
-Watson Assistant can be deployed to mupliple platforms, choose one 
+Watson Assistant can be deployed to multiple platforms, choose one 
 
 <img width="700" alt="image" src="https://user-images.githubusercontent.com/114666786/201148339-4f217cb3-3c39-4aa0-a113-af30b5eec150.png">
 
@@ -67,7 +67,7 @@ Check the preview:
 
 and create the assistant
 
-<h2>Step 8: Dialog</h2>
+<h2>Step 8: Activate Dialog Skill </h2>
 
 Go to Home and click on **Assistant Settings**
 
