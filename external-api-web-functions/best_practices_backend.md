@@ -43,13 +43,13 @@ _**Watson Assistant:** Hey, My name is Watson, what should I call you?_
 
 _**User:** Joe_
 
-_**Watson Assistant:** Nice to meet you, Jay. I’m here to help you with your purchase. please let me know what you are looking for?_
+_**Watson Assistant:** Nice to meet you, Joe. I’m here to help you with your purchase. please let me know what you are looking for?_
 
 _**User:** I am looking for flowers
 
 _**Watson Assistant:** What occasion is it?
 
-_**User:** Birthday/Anniversary/
+_**User:** Birthday/Anniversary/wedding/christmas
 
 _**Watson Assistant:** I'd go with an all-time classic: a beautiful Red Roses and lily
 
@@ -57,7 +57,7 @@ _**User:** what are your hours of operation?
 
 _**Watson Assistant:** for which city?_
 
-_**User:** for Toronto_
+_**User:** for Toronto/Vancouver_
 
 _**Watson Assistant:** hours of operation for Toronto are 9:00 AM to 6:00 PM Monday to Friday_
 
