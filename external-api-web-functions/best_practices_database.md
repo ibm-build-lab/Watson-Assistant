@@ -49,6 +49,6 @@ _**User:** How many projects are in trouble?_
 
 _**Watson Assistant:** Projects in Trouble:_
 
-- _project-1_
-- _project-2_
-- _project-3_
+- _Project-B11-61_
+- _Project-B12-122_
+- _Project-B13-183_
