@@ -8,9 +8,9 @@ The Watson Assistant provides a question-answering computer system capable of an
 
 The user can prepare the questions as, per the business requirements, using different intents. We then configure Watson Assistant with Voice functionality.  For that, we leverage three IBM services as follows. 
 
-1.	Watson Assistant
-2.	Speech to text convertor
-3.	Text to Speech convertor
+1.	Watson Assistant (WA)
+2.	Speech to text convertor (STT)
+3.	Text to Speech convertor (TTS)
 
 After configuring and starting the required services, we can integrate the voice solution with Watson Assistant. For this solution, we have a repository that contains HTML code for a voice UI microphone button along with Watson Assistant chatbot and JavaScript for sending the request to STT and TTS services.
 
@@ -22,7 +22,7 @@ After configuring and starting the required services, we can integrate the voice
  
 The architecture above introduces five features that can integrate voice functionality along with Watson Assistant.
 
-1.	Web page: this is the HTML page where we integrate the microphone button with Watson Assistant. This HTML file also contains a javascript file for running all the APIs and a CSS file for setting the microphone position.
+1.	Web page: this is the HTML page where we integrate the microphone button with Watson Assistant. This HTML file also contains a Javascript file for running all the APIs and a CSS file for setting the microphone position.
 
 2.	STT: This is the IBM cloud service known as Speech to Text, which converts speech to text so we can pass the text to Watson Assistant. When the user clicks the microphone button, the voice recording will start, and when the user deselects the microphone button, the recording will stop, and the audio file will be sent to the STT service. SST has a training model that can identify the words and uses NLP models. SST contains more than 70 custom models for the user.  In addition, you can create your own if needed. 
 
