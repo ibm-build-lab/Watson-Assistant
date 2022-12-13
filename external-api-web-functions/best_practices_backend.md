@@ -45,15 +45,15 @@ _**User:** Joe_
 
 _**Watson Assistant:** Nice to meet you, Joe. I’m here to help you with your purchase. please let me know what you are looking for?_
 
-_**User:** I am looking for flowers
+_**User:** I am looking for flowers_
 
-_**Watson Assistant:** What occasion is it?
+_**Watson Assistant:** What occasion is it?_
 
-_**User:** Birthday/Anniversary/wedding/christmas
+_**User:** Birthday/Anniversary/wedding/christmas_
 
-_**Watson Assistant:** I'd go with an all-time classic: a beautiful Red Roses and lily
+_**Watson Assistant:** I'd go with an all-time classic: a beautiful red roses and lily_
 
-_**User:** what are your hours of operation?
+_**User:** what are your hours of operation?_
 
 _**Watson Assistant:** for which city?_
 
@@ -61,10 +61,12 @@ _**User:** for Toronto/Vancouver_
 
 _**Watson Assistant:** hours of operation for Toronto are 9:00 AM to 6:00 PM Monday to Friday_
 
-_**User:** what is my delivery status?
+_**User:** what is my delivery status?_
 
-_**Watson Assistant:** Your Order Status is as flowing: Order 1, Order 2.
+_**Watson Assistant:** Your Order Status is as following:_
+- _Order 1_
+- _Order 2_
 
-_**User:** Thank you!!
+_**User:** Thank you!!_
 
-_**Watson Assistant:** That was my pleasure
+_**Watson Assistant:** That was my pleasure_
