@@ -81,4 +81,5 @@ The **Dialog** section will appear in the menu, you are ready to roll.
 
 <img width="245" alt="image" src="https://user-images.githubusercontent.com/114666786/201151461-ba24a2d7-ba94-4daa-9922-0f12d2710b2a.png">
 
-Next Step, Web Function Creation and Configuration Guide: https://github.com/ibm-build-lab/Watson-Assistant/blob/main/external-api-web-functions/README.md
+Next Step, Web Function Creation and Configuration Guide:
+- https://github.com/ibm-build-lab/Watson-Assistant/blob/main/external-api-web-functions/README.md
