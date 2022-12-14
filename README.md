@@ -1,19 +1,20 @@
 <H2>Watson-Assistant</H2>
 Watson-Assistant Feature Enablement Repository
 
-<H3>Feature Enablements:</H3>
+<H3>Feature Enablement:</H3>
 <H4>1. Watson Assistant augmented conversations including data from external API calls using Web Functions.</H4>
 
 <!-- <img width="1523" alt="image" src="https://user-images.githubusercontent.com/114666786/207609271-e2398fd6-523e-4fa2-9f23-3395d822d8a8.png"> -->
 
 <img width="1514" alt="image" src="https://user-images.githubusercontent.com/114666786/207662497-c082d46a-04dc-4138-8232-293808caa994.png">
 
+Below is the explanation of the flow diagram:
 
-- User/Channel: User, using channels such as mobile,web page,slack, teams, facebook messenger, starts conversation with watson assistant
+- User/Channel: User, using channels such as mobile, web page, slack, teams, Facebook messenger, starts conversation with watson assistant
 
-- Intent Understanding: Watson Asssistant's Dialog skills undersatnd the intent with the help of intent reasoning and entities
+- Intent Understanding: Watson Assistant’s Dialog skills understand the intent with the help of intent reasoning and entities
 
-- Webhook: If the processed intent node has webhook functionality enabled for it, it send the data saved in the form of context variable to the web function
+- Webhook: If the processed intent node has webhook functionality enabled for it, it sends the data saved in the form of context variable to the web function
 
 - API call: Web function calls an API which processes the task and returns a json response
 
