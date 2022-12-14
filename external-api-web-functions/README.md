@@ -43,6 +43,7 @@ Copy down the URL that’s created under Web Actions, you’ll need this later.
 <!-- <img width="1698" alt="image" src="https://user-images.githubusercontent.com/114666786/200753107-090b0b8f-4e75-4da1-b425-abae3143111a.png"> -->
 <!-- <img src="./images/7endpoint.png" alt="7endpoint" style="width:2000px;"/> -->
 
+## Here is a step-by-step guide to configure Dialog Skills:
 
 Now that you have the program/function ready, you would like to know how to integrate it or link it with your Watson Assistant. This is where Webhooks come into play.
 
