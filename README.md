@@ -6,7 +6,8 @@ Watson-Assistant Feature Enablement Repository
 
 <!-- <img width="1523" alt="image" src="https://user-images.githubusercontent.com/114666786/207609271-e2398fd6-523e-4fa2-9f23-3395d822d8a8.png"> -->
 
-<img width="1514" alt="image" src="https://user-images.githubusercontent.com/114666786/207662497-c082d46a-04dc-4138-8232-293808caa994.png">
+<img width="1518" alt="image" src="https://user-images.githubusercontent.com/114666786/207687798-a282e24d-1846-496d-b32a-bd4142f6b53c.png">
+
 
 Below is the explanation of the flow diagram:
 
@@ -24,7 +25,8 @@ Below is the explanation of the flow diagram:
 <H4>2. Enablement of voice over webchat using the Watson Assistant</H4>
 
 <!-- <img width="1523" alt="image" src="https://user-images.githubusercontent.com/114666786/207640336-a407226d-0674-402a-8e3a-0c0de06202f0.png"> -->
-<img width="1523" alt="image" src="https://user-images.githubusercontent.com/114666786/207655599-dd31291a-6b76-4908-8c78-4958e9b536bc.png">
+
+<img width="1526" alt="image" src="https://user-images.githubusercontent.com/114666786/207686725-db8bcd3b-6041-4c0a-bfd4-a11f71a138a7.png">
 
 The architecture above introduces five features that can integrate voice functionality along with Watson Assistant.
 
