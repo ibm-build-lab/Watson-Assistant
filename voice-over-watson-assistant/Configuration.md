@@ -83,4 +83,4 @@ Let's connect the voice chat bot to Wikipedia. This way, the user can ask Watson
 Webhook Wikipedia API helps to search for important terms on Wikipedia and gives short summary about it. Short summary is the short description about the thing the user wants to know. Now let’s ask something to Watson Assistant Voice chatbot. Here answer of the question “what is America” is short summary from Wikipedia. 
 
 
-<img width="1321" alt="Screenshot 2022-12-06 at 1 22 18 PM" src="https://user-images.githubusercontent.com/112084296/205853458-7649fd5f-7b11-47ae-a373-bff11c2de6b3.png">
+<img width="1323" alt="Screenshot 2022-12-15 at 11 46 55 AM" src="https://user-images.githubusercontent.com/112084296/207786877-c1e9de5a-dae7-4813-a13b-688044141f9b.png">
