@@ -94,7 +94,6 @@ You can easily try out your assistant by clicking on “Try it” on the right s
 <!-- <img src="./images/12tryit.png" alt="12tryit" style="width:2000px;"/> -->
 
 Now you have successfully integrated a third-party App/API with your Assistant, Cheers!!
-See the use case in action:
 
-- Asset: https://techzone.ibm.com/collection/watson-assistant-for-backend-data-access
+- Asset: https://techzone.ibm.com/collection/watson-assistant-with-external-api
 
