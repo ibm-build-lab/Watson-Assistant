@@ -1,8 +1,9 @@
 <h2>Technical Description of Voice over Watson Assistant</h2>
 
-A voice chatbot assistant that listens to your voice input, analyses the task at hand, and responds with relevant answers via voice. These conversational interfaces understand natural language as they use NLP and NLU, and are also trained to respond in natural language.
 
-The organisation can prepare the questions-answer as per the business requirements using different intents-entity, and then configure Voice functionality with Watson Assistant. For this, we leverage three IBM services as follows. 
+Voice over Watson Assistant listens to your voice input, accesses intent, and responds with relevant answers or subsequent questions via voice. These conversational interfaces understand natural language using NLP/NLU.
+
+An organization can prepare questions-answers as per the business requirements using different intents/entities, and then configure Voice functionality with Watson Assistant. For this, we leverage three IBM services as follows.
 
 1.	Watson Assistant (WA)
 2.	Speech to text convertor (STT) 
