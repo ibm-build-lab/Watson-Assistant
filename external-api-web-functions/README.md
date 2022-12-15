@@ -97,5 +97,4 @@ Now you have successfully integrated a third-party App/API with your Assistant, 
 See the use case in action:
 
 - Asset: https://techzone.ibm.com/collection/watson-assistant-for-backend-data-access
-- Demo: https://htmlpreview.github.io/?https://github.com/ibm-build-lab/Watson-Assistant/blob/main/external-api-web-functions/Main/AcmeCorp.html
 
