@@ -1,5 +1,5 @@
 <h2> Voice over Watson Assistant </h2>
-In this article, we will provide instruction and code required to implement voice over webchat using the Watson Assistant.  This means interacting with a chatbot with your voice instead of typing. We will demonstrate connecting the Watson Assistant with Wikipedia for question answer responses using voice to communicate questions and responses.
+In this Document, we will provide instruction and code required to implement voice over webchat using the Watson Assistant. This means interacting with a chatbot with your voice instead of typing. We will demonstrate connecting the Watson Assistant with Wikipedia for question answer responses using voice to communicate questions and responses.
 
 
 A voice chatbot is a virtual assistant that hears, perceives, and responds to your voice input. Voice chatbot assistants that read your voice input, analyse the task at hand, and respond with relevant answers. These conversational interfaces understand natural language as they use NLP and NLU, and are also trained to respond in natural language.
