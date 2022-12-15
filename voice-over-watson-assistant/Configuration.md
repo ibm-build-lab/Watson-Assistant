@@ -1,7 +1,7 @@
 
 <h2>Setup the Voice over Watson in Local System</h2>
 
-Let's set up Voice Chatbot on the local machine. First, download all the configuration files, including the HTML file for the voice bot, JavaScript for calling the APIs, and other dependencies. All the required files are available in the Github repository mentioned below. Configure all API keys and path as shown below and launch the HTML file in the browser.
+Let's set up Voice Chatbot on the local machine. First, download all the configuration files, including the HTML file for the voice bot, JavaScript for calling the APIs, and other dependencies. All the required files are available in the Github repository mentioned below, download the repository form parent directory. Configure all API keys and path as shown below and launch the HTML file in the browser.
 
 Link : https://github.com/ibm-build-lab/Watson-Assistant/tree/main/voice-over-watson-assistant
 
