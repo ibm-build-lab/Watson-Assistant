@@ -11,6 +11,8 @@ This document covers Demo instructions along with an example use case which will
 
 <h2>Demo</h2>
 
+_Please refer back to these instructions for the demo to understand what you need to do once Watson Assistant is invoked_
+
 To launch the Demo [click here](https://htmlpreview.github.io/?https://github.com/ibm-build-lab/Watson-Assistant/blob/main/external-api-web-functions/Main/AcmeCorp.html)
 
 Once it is up, reach to the bottom right corner and click on the icon:
