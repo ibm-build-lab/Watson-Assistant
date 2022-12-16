@@ -39,7 +39,7 @@ In this example use-case we are taking an example of a watson assistant to eComm
 
 <h4>Following is the example conversation between user and watson assistant:</h4>
 
-_**User:** Hello_
+<!-- _**User:** Hello_
 
 _**Watson Assistant:** Hey, My name is Watson, what should I call you?_
 
@@ -71,4 +71,41 @@ _**Watson Assistant:** Your Order Status is as following:_
 
 _**User:** Thank you!!_
 
-_**Watson Assistant:** That was my pleasure_
+_**Watson Assistant:** That was my pleasure_ -->
+
+
+
+    User: Hello
+
+    Watson Assistant: Hey, My name is Watson, what should I call you?
+
+    User: Joe
+
+    Watson Assistant: Nice to meet you, Joe. I’m here to help you with your purchase. please let me know what you are looking for?
+
+    User: I am looking for flowers
+
+    Watson Assistant: What occasion is it?
+
+    User: Birthday/Anniversary/wedding/christmas
+
+    Watson Assistant: I'd go with an all-time classic: a beautiful red roses and lily
+
+    User: what are your hours of operation?
+
+    Watson Assistant: for which city?
+
+    User: for Toronto/Vancouver
+
+    Watson Assistant: hours of operation for Toronto are 9:00 AM to 6:00 PM Monday to Friday
+
+    User: what is my delivery status?
+
+    Watson Assistant: Your Order Status is as following:
+
+        Order 1
+        Order 2
+
+    User: Thank you!!
+
+    Watson Assistant: That was my pleasure
