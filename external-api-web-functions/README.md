@@ -19,11 +19,11 @@ You are provided with the information needed to set up a Watson Assistant instan
 [<img width="500" alt="image" src="https://user-images.githubusercontent.com/114666786/208032446-8fefea1f-468d-402a-a187-9a1bf231903b.png">](https://livesend.ibm.com/i/KWRDA___eXqdoBrCfw6jq5L6AvCvIjxnEz7yjXzbbU6SpmrGAMCqgHguxli0oDBaFqePLUSSIGNR1SH3vmwDFWPLUSSIGNx4dq7JfdPR9cpnsU1iTSJdEhh___Dl8EQUALSIGN)
 -->
 
-<!--seismic-->
-##### Value Deck: Start Your Journey Here ([view the Deck](https://ibm.seismic.com/app?ContentId=dc7264b5-1093-4289-8e54-bf524321b7e8#/workspace/doc/3bd89623-433e-47df-91d4-e96f7faef105//grid/title?viewType=MyFiles))
+<!--GH-->
+##### Value Deck: Start Your Journey Here ([view the Deck](https://github.com/ibm-build-lab/Watson-Assistant/blob/main/external-api-web-functions/Watson%20Assistant%20Value%20Deck.pdf))
 - This deck describes the value proposition of the web function, use cases, implementation details, and a reference architecture
 
-[<img width="500" alt="image" src="https://user-images.githubusercontent.com/114666786/208032446-8fefea1f-468d-402a-a187-9a1bf231903b.png">](https://ibm.seismic.com/app?ContentId=dc7264b5-1093-4289-8e54-bf524321b7e8#/workspace/doc/3bd89623-433e-47df-91d4-e96f7faef105//grid/title?viewType=MyFiles)
+[<img width="500" alt="image" src="https://user-images.githubusercontent.com/114666786/208032446-8fefea1f-468d-402a-a187-9a1bf231903b.png">](https://github.com/ibm-build-lab/Watson-Assistant/blob/main/external-api-web-functions/Watson%20Assistant%20Value%20Deck.pdf)
 
 
 <!--livesend-->
