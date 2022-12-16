@@ -39,6 +39,25 @@ In this example use case we are taking an example of a Watson Assistant to Proje
 
 <h4>Following is an example conversation between a user and Watson Assistant:</h4>
 
+
+    User: Hello
+
+    Watson Assistant: Hello Joe, how may I help you today?
+
+    User: What are the total number of projects in my project management system?
+
+    Watson Assistant: Total Project count is : 1273
+
+    User: How many projects are in trouble?
+
+    Watson Assistant: Projects in Trouble:
+
+        Project-B11-61
+        Project-B12-122
+        Project-B13-183
+
+
+<!-- 
 _**User:** Hello_
 
 _**Watson Assistant:** Hello Joe, how may I help you today?_
@@ -53,4 +72,6 @@ _**Watson Assistant:** Projects in Trouble:_
 
 - _Project-B11-61_
 - _Project-B12-122_
-- _Project-B13-183_
+- _Project-B13-183_-->
+
+
