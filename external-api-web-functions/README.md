@@ -6,11 +6,9 @@ You are provided with the information needed to set up a Watson Assistant instan
 
 <h4>You will find the following assets in this collection:</h4>
 
-1. Value Deck: Start Your Journey Here ([view the Deck](https://livesend.ibm.com/i/KWRDA___eXqdoBrCfw6jq5L6AvCvIjxnEz7yjXzbbU6SpmrGAMCqgHguxli0oDBaFqePLUSSIGNR1SH3vmwDFWPLUSSIGNx4dq7JfdPR9cpnsU1iTSJdEhh___Dl8EQUALSIGN))
-
+1. Value Deck: Start Your Journey Here ([view the Deck](https://github.com/ibm-build-lab/Watson-Assistant/blob/main/external-api-web-functions/Watson%20Assistant%20Value%20Deck.pdf))
 2. See it: Video Overview of an Asset ([launch the Video](https://ibm.box.com/s/y2ewu4p1owgmjzetiyvjbg0lvjkvzh3d)) 
 3. Learn It: Watson Assistant Provisioning ([view the Doc](https://github.com/ibm-build-lab/Watson-Assistant/blob/main/external-api-web-functions/Provisioning.md))
-
 4. Learn it: Step-By-Step Guide to Execute the Functionality ([view the Guide](https://github.com/ibm-build-lab/Watson-Assistant/blob/main/external-api-web-functions/ConfigurationGuide.md))
 
 <!-- 
