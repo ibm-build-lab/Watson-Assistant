@@ -54,13 +54,10 @@ You are provided with the information needed to set up a Watson Assistant instan
 
 #### Machine Learning Model Integration Use case
 - Best Practices: To be reviewed before taking the demo, it contains demo-relevant information and questions ([click to view](https://github.com/ibm-build-lab/Watson-Assistant/blob/main/external-api-web-functions/best_practices_ml.md))
-- Do It Live: Experience Watson Assistant with web functionality in action ([click to launch](https://web-chat.global.assistant.watson.appdomain.cloud/preview.html?backgroundImageURL=https%3A%2F%2Fus-south.assistant.watson.cloud.ibm.com%2Fpublic%2Fimages%2Fupx-0b052c85-f4f1-49fc-8133-27d976bda2fc%3A%3A54c7981e-1af1-40ae-8fc6-71e23e37343e&integrationID=ae784ff9-c32b-49f6-b510-3b9aeed3219c&region=us-south&serviceInstanceID=0b052c85-f4f1-49fc-8133-27d976bda2fc))
 
 #### Order Management System Integration Use case
 - Best Practices: To be reviewed before taking the demo, it contains demo-relevant information and questions ([click to view](https://github.com/ibm-build-lab/Watson-Assistant/blob/main/external-api-web-functions/best_practices_backend.md))
-- Do It Live: Experience Watson Assistant with web functionality in action ([click to launch](https://web-chat.global.assistant.watson.appdomain.cloud/preview.html?backgroundImageURL=https%3A%2F%2Fus-south.assistant.watson.cloud.ibm.com%2Fpublic%2Fimages%2Fupx-e47a4cba-b760-46da-9934-97fc06fd4b70%3A%3A6ff5e1b1-8471-4cb4-812c-537b7e568158&integrationID=69a2225f-05dc-422b-b65e-71d9aed63a51&region=us-south&serviceInstanceID=e47a4cba-b760-46da-9934-97fc06fd4b70))
 
 #### Backend Database Integration Use case
 - Best Practices: To be reviewed before taking the demo, it contains demo-relevant information and questions ([click to view](https://github.com/ibm-build-lab/Watson-Assistant/blob/main/external-api-web-functions/best_practices_database.md))
-- Do It Live: Experience Watson Assistant with web functionality in action ([click to launch](https://web-chat.global.assistant.watson.appdomain.cloud/preview.html?backgroundImageURL=https%3A%2F%2Fus-south.assistant.watson.cloud.ibm.com%2Fpublic%2Fimages%2Fupx-0b052c85-f4f1-49fc-8133-27d976bda2fc%3A%3A54c7981e-1af1-40ae-8fc6-71e23e37343e&integrationID=ae784ff9-c32b-49f6-b510-3b9aeed3219c&region=us-south&serviceInstanceID=0b052c85-f4f1-49fc-8133-27d976bda2fc))
 
