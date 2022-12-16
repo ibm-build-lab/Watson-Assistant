@@ -4,22 +4,43 @@ This Collection is designed to demonstrate Watson Assistant’s ability to lever
 
 You are provided with the information needed to set up a Watson Assistant instance to augment a conversation with live data from API calls. APIs can be set up to fetch near real-time data from databases and/or to fetch public information on the internet. The uses can be extended to run search engine queries, run queries for database, fetch machine learning model response, Wikipedia search, and more.
 
-<!-- <img width="1000" alt="image" src="https://user-images.githubusercontent.com/114666786/208027642-7fe3cee6-39a6-4e47-b574-aebe7472478a.png"> 
-
+<!-- 
+<img width="1000" alt="image" src="https://user-images.githubusercontent.com/114666786/208027642-7fe3cee6-39a6-4e47-b574-aebe7472478a.png"> 
 <img width="1000" alt="image" src="https://user-images.githubusercontent.com/114666786/208027881-0328131e-d55d-45bc-ac9f-17708e10cb39.png">
 -->
 
 <h4>You will find the following assets in this collection:</h4>
 
+<!--livesend-->
+<!--
 ##### Value Deck: Start Your Journey Here ([view the Deck](https://livesend.ibm.com/i/KWRDA___eXqdoBrCfw6jq5L6AvCvIjxnEz7yjXzbbU6SpmrGAMCqgHguxli0oDBaFqePLUSSIGNR1SH3vmwDFWPLUSSIGNx4dq7JfdPR9cpnsU1iTSJdEhh___Dl8EQUALSIGN))
 - This deck describes the value proposition of the web function, use cases, implementation details, and a reference architecture
 
 [<img width="500" alt="image" src="https://user-images.githubusercontent.com/114666786/208032446-8fefea1f-468d-402a-a187-9a1bf231903b.png">](https://livesend.ibm.com/i/KWRDA___eXqdoBrCfw6jq5L6AvCvIjxnEz7yjXzbbU6SpmrGAMCqgHguxli0oDBaFqePLUSSIGNR1SH3vmwDFWPLUSSIGNx4dq7JfdPR9cpnsU1iTSJdEhh___Dl8EQUALSIGN)
+-->
 
+<!--seismic-->
+##### Value Deck: Start Your Journey Here ([view the Deck](https://ibm.seismic.com/app?ContentId=dc7264b5-1093-4289-8e54-bf524321b7e8#/workspace/doc/3bd89623-433e-47df-91d4-e96f7faef105//grid/title?viewType=MyFiles))
+- This deck describes the value proposition of the web function, use cases, implementation details, and a reference architecture
+
+[<img width="500" alt="image" src="https://user-images.githubusercontent.com/114666786/208032446-8fefea1f-468d-402a-a187-9a1bf231903b.png">](https://ibm.seismic.com/app?ContentId=dc7264b5-1093-4289-8e54-bf524321b7e8#/workspace/doc/3bd89623-433e-47df-91d4-e96f7faef105//grid/title?viewType=MyFiles)
+
+
+<!--livesend-->
+<!--
 ##### See it: Video Overview of an Asset ([launch the Video](https://livesend.ibm.com/i/KWRDA___eXqdoBrCfw6jq5L6AvCvIjxnEz7yjXzbbU6SrSQqdAxhBjA7kL3N1SkkvW3GZqaan___2oYS3lsbJOxElKcCiWLGvV74wuyakGkoOXUEQUALSIGN)) 
 - This video covers an overview of one of the use cases along with a functional flow
 
 [<img width="500" alt="image" src="https://user-images.githubusercontent.com/114666786/208032722-9d3c0ba1-7d35-4880-b47e-c7a3dc5c43f9.png">](https://livesend.ibm.com/i/KWRDA___eXqdoBrCfw6jq5L6AvCvIjxnEz7yjXzbbU6SrSQqdAxhBjA7kL3N1SkkvW3GZqaan___2oYS3lsbJOxElKcCiWLGvV74wuyakGkoOXUEQUALSIGN)
+-->
+
+<!--seismic-->
+##### See it: Video Overview of an Asset ([launch the Video](https://ibm.seismic.com/app?ContentId=dc7264b5-1093-4289-8e54-bf524321b7e8#/workspace/doc/b4422161-2ce2-4264-b405-bd2caad6bded//grid/title?viewType=MyFiles)) 
+- This video covers an overview of one of the use cases along with a functional flow
+
+[<img width="500" alt="image" src="https://user-images.githubusercontent.com/114666786/208032722-9d3c0ba1-7d35-4880-b47e-c7a3dc5c43f9.png">](https://ibm.seismic.com/app?ContentId=dc7264b5-1093-4289-8e54-bf524321b7e8#/workspace/doc/b4422161-2ce2-4264-b405-bd2caad6bded//grid/title?viewType=MyFiles)
+
+
 
 ##### Learn It: Watson Assistant Provisioning ([view the Doc](https://github.com/ibm-build-lab/Watson-Assistant/blob/main/external-api-web-functions/Provisioning.md))
 - A guide to provision a Watson Assistant manually and activating the Dialog Skills
