@@ -2,8 +2,12 @@
   
 This Collection is designed to demonstrate Watson Assistant’s ability to leverage external data via API to enhance conversational skills by providing data-driven responses to questions.
 
-<!-- <img width="1000" alt="image" src="https://user-images.githubusercontent.com/114666786/208027642-7fe3cee6-39a6-4e47-b574-aebe7472478a.png"> -->
+You are provided with the information needed to set up a Watson Assistant instance to augment a conversation with live data from API calls. APIs can be set up to fetch near real-time data from databases and/or to fetch public information on the internet. The uses can be extended to run search engine queries, run queries for database, fetch machine learning model response, Wikipedia search, and more.
+
+<!-- <img width="1000" alt="image" src="https://user-images.githubusercontent.com/114666786/208027642-7fe3cee6-39a6-4e47-b574-aebe7472478a.png"> 
+
 <img width="1000" alt="image" src="https://user-images.githubusercontent.com/114666786/208027881-0328131e-d55d-45bc-ac9f-17708e10cb39.png">
+-->
 
 <h4>You will find the following assets in this collection:</h4>
 
