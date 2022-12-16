@@ -27,19 +27,19 @@ You are provided with the information needed to set up a Watson Assistant instan
 
 
 <!--livesend-->
-<!--
 ##### See it: Video Overview of an Asset ([launch the Video](https://livesend.ibm.com/i/KWRDA___eXqdoBrCfw6jq5L6AvCvIjxnEz7yjXzbbU6SrSQqdAxhBjA7kL3N1SkkvW3GZqaan___2oYS3lsbJOxElKcCiWLGvV74wuyakGkoOXUEQUALSIGN)) 
 - This video covers an overview of one of the use cases along with a functional flow
 
 [<img width="500" alt="image" src="https://user-images.githubusercontent.com/114666786/208032722-9d3c0ba1-7d35-4880-b47e-c7a3dc5c43f9.png">](https://livesend.ibm.com/i/KWRDA___eXqdoBrCfw6jq5L6AvCvIjxnEz7yjXzbbU6SrSQqdAxhBjA7kL3N1SkkvW3GZqaan___2oYS3lsbJOxElKcCiWLGvV74wuyakGkoOXUEQUALSIGN)
--->
+
 
 <!--seismic-->
+<!--
 ##### See it: Video Overview of an Asset ([launch the Video](https://ibm.seismic.com/app?ContentId=dc7264b5-1093-4289-8e54-bf524321b7e8#/workspace/doc/b4422161-2ce2-4264-b405-bd2caad6bded//grid/title?viewType=MyFiles)) 
 - This video covers an overview of one of the use cases along with a functional flow
 
 [<img width="500" alt="image" src="https://user-images.githubusercontent.com/114666786/208032722-9d3c0ba1-7d35-4880-b47e-c7a3dc5c43f9.png">](https://ibm.seismic.com/app?ContentId=dc7264b5-1093-4289-8e54-bf524321b7e8#/workspace/doc/b4422161-2ce2-4264-b405-bd2caad6bded//grid/title?viewType=MyFiles)
-
+-->
 
 
 ##### Learn It: Watson Assistant Provisioning ([view the Doc](https://github.com/ibm-build-lab/Watson-Assistant/blob/main/external-api-web-functions/Provisioning.md))
