@@ -40,7 +40,27 @@ In this example use-case we are taking an example of a watson assistant to machi
 
 <h4>Following is the example conversation between user and watson assistant:</h4>
 
-_**User:** Hello_
+    User: Hello
+
+    Watson Assistant: Hi, Joe. please let me know what can I do for you?
+
+    User: How much credit can I get?
+
+    Watson Assistant: Based on your profile, you can get credit between $5000 to $5500
+
+    User: would my application get approved?
+
+    Watson Assistant: Based on your profile, approval chances are 78 %.
+
+    User: how can I improve my chances?
+
+    Watson Assistant: You can improve your credibility if you:
+
+        lower your credit utilization ratio
+        pay bills on time
+
+
+<!-- _**User:** Hello_
 
 _**Watson Assistant:** Hi, Joe. please let me know what can I do for you?_
 
@@ -57,4 +77,4 @@ _**User:** how can I improve my chances?_
 _**Watson Assistant:** You can improve your credibility if you:_
 - _lower your credit utilization ratio_
 - _pay bills on time_
-
+ -->
