@@ -19,6 +19,3 @@ In the era of globalization, Global companies going local and want to communicat
 Architectural Diagram
 <img width="1726" alt="image" src="https://user-images.githubusercontent.com/114666786/209670919-3025b2f5-399b-4892-a8ab-86367ca943f5.png">
 
-### Flow:
-
-### Flow Explained:
