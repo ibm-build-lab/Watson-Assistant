@@ -1,0 +1,826 @@
+{
+  "intents": [
+    {
+      "intent": "creditprobability",
+      "examples": [
+        {
+          "text": "credit score"
+        },
+        {
+          "text": "creditworthiness"
+        },
+        {
+          "text": "likelyhood of getting loan?"
+        },
+        {
+          "text": "Was ist mein Bonität?"
+        },
+        {
+          "text": "what are my application approval chnaces?"
+        },
+        {
+          "text": "what are my approval chances?"
+        },
+        {
+          "text": "what are my chances of getting loan?"
+        },
+        {
+          "text": "what if my likelyhood of getting credit?"
+        },
+        {
+          "text": "what is my credit score?"
+        },
+        {
+          "text": "What is my creditworthiness?"
+        },
+        {
+          "text": "what is my loan approval probability"
+        },
+        {
+          "text": "would I get a loan?"
+        },
+        {
+          "text": "would i get the credit?"
+        }
+      ],
+      "description": "probability"
+    },
+    {
+      "intent": "creditrange",
+      "examples": [
+        {
+          "text": "credibility"
+        },
+        {
+          "text": "how much credit can I get?"
+        },
+        {
+          "text": "how much loan can I afford?"
+        },
+        {
+          "text": "how much loan can i get?"
+        },
+        {
+          "text": "how much loan I can get?"
+        },
+        {
+          "text": "what is my affordability?"
+        },
+        {
+          "text": "what is my credibility?"
+        },
+        {
+          "text": "what is my credit range?"
+        },
+        {
+          "text": "what would be my credit range?"
+        }
+      ],
+      "description": "range of credit based on profile"
+    },
+    {
+      "intent": "creditscoreimprovement",
+      "examples": [
+        {
+          "text": "how can i improve my credibility?"
+        },
+        {
+          "text": "how can i improve my score?"
+        },
+        {
+          "text": "how could i get more loan?"
+        },
+        {
+          "text": "tips to improve score"
+        },
+        {
+          "text": "what can i do to improve my credibility?"
+        }
+      ],
+      "description": "credit score improvement"
+    },
+    {
+      "intent": "Goodbye",
+      "examples": [
+        {
+          "text": "bye!!"
+        },
+        {
+          "text": "Good bye!!"
+        },
+        {
+          "text": "have a good day!!"
+        },
+        {
+          "text": "siging off"
+        },
+        {
+          "text": "thank you, bye!!"
+        }
+      ],
+      "description": "By"
+    },
+    {
+      "intent": "greetings",
+      "examples": [
+        {
+          "text": "Hello"
+        },
+        {
+          "text": "hey"
+        },
+        {
+          "text": "Heya"
+        },
+        {
+          "text": "Hi"
+        }
+      ],
+      "description": "greetings"
+    },
+    {
+      "intent": "icebreakers",
+      "examples": [
+        {
+          "text": "hope you are doing well"
+        },
+        {
+          "text": "hope you are in good shape"
+        },
+        {
+          "text": "how are you?"
+        },
+        {
+          "text": "how are you doing?"
+        },
+        {
+          "text": "how is it going there?"
+        }
+      ],
+      "description": "how are you?"
+    },
+    {
+      "intent": "language",
+      "examples": [
+        {
+          "text": "hello"
+        },
+        {
+          "text": "hola"
+        }
+      ],
+      "description": "language"
+    },
+    {
+      "intent": "thankyou",
+      "examples": [
+        {
+          "text": "amazing"
+        },
+        {
+          "text": "sounds good"
+        },
+        {
+          "text": "thanks!!"
+        },
+        {
+          "text": "#thankyou"
+        },
+        {
+          "text": "thank you"
+        }
+      ],
+      "description": "thankyou"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "counts",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "complete",
+          "synonyms": [
+            "complete projects"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "incomplete",
+          "synonyms": [
+            "incomplete projects"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "total",
+          "synonyms": [
+            "total projects"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "dallas",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "dallas",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "keyword",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "term",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "language",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Arabic",
+          "synonyms": [
+            "ar",
+            "arabic"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Chinese (Simplified)",
+          "synonyms": [
+            "zh-cn"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Chinese (Traditional)",
+          "synonyms": [
+            "zh-tw"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Czech",
+          "synonyms": [
+            "cs"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Dutch",
+          "synonyms": [
+            "nl"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "english",
+          "synonyms": [
+            "en",
+            "English"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "french",
+          "synonyms": [
+            "fr",
+            "French"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "German",
+          "synonyms": [
+            "de",
+            "german"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Italian",
+          "synonyms": [
+            "it"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Japanese",
+          "synonyms": [
+            "ja"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Korean",
+          "synonyms": [
+            "ko"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Portuguese (Brazilian)",
+          "synonyms": [
+            "pt-br"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "spanish",
+          "synonyms": [
+            "es"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    }
+  },
+  "webhooks": [
+    {
+      "url": "https://us-south.functions.appdomain.cloud/api/v1/web/50d5c37d-440e-42d9-8f7b-51f68ac352c9/default/working_jst.json",
+      "name": "main_webhook",
+      "headers": []
+    }
+  ],
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "title": "Anything else",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hi!!"
+              },
+              {
+                "text": "Can you reword your statement? I'm not understanding."
+              },
+              {
+                "text": "I didn't get your meaning."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "conditions": "anything_else",
+      "dialog_node": "Anything else",
+      "previous_sibling": "node_3_1670409585902",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_7_1671815951474",
+      "context": {
+        "language": "@language"
+      },
+      "conditions": "@language",
+      "event_name": "input",
+      "dialog_node": "handler_10_1671815951487"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_6_1672038559152",
+      "context": {
+        "keywords": "@keyword.literal"
+      },
+      "conditions": "@keyword.literal",
+      "event_name": "input",
+      "dialog_node": "handler_3_1672038559153"
+    },
+    {
+      "type": "event_handler",
+      "parent": "slot_6_1671820127798",
+      "event_name": "input",
+      "dialog_node": "handler_5_1671820127802"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_6_1671820127798",
+      "event_name": "focus",
+      "dialog_node": "handler_6_1671820127802",
+      "previous_sibling": "handler_5_1671820127802"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "title": "Please Select your Preferred Language: ",
+            "options": [
+              {
+                "label": "English",
+                "value": {
+                  "input": {
+                    "text": "English"
+                  }
+                }
+              },
+              {
+                "label": "Spanish",
+                "value": {
+                  "input": {
+                    "text": "Spanish"
+                  }
+                }
+              },
+              {
+                "label": "French",
+                "value": {
+                  "input": {
+                    "text": "French"
+                  }
+                }
+              },
+              {
+                "label": "German",
+                "value": {
+                  "input": {
+                    "text": "German"
+                  }
+                }
+              },
+              {
+                "label": "Chinese (Simplified)",
+                "value": {
+                  "input": {
+                    "text": "Chinese (Simplified)"
+                  }
+                }
+              },
+              {
+                "label": "Chinese (Traditional)",
+                "value": {
+                  "input": {
+                    "text": "Chinese (Traditional)"
+                  }
+                }
+              },
+              {
+                "label": "Italian",
+                "value": {
+                  "input": {
+                    "text": "Italian"
+                  }
+                }
+              },
+              {
+                "label": "Japanese",
+                "value": {
+                  "input": {
+                    "text": "Japanese"
+                  }
+                }
+              }
+            ],
+            "description": "Seleccione su idioma preferido: ",
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "slot_7_1671815951474",
+      "event_name": "focus",
+      "dialog_node": "handler_7_1671815951487",
+      "previous_sibling": "handler_10_1671815951487"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_6_1672038559152",
+      "event_name": "focus",
+      "dialog_node": "handler_7_1672038559153",
+      "previous_sibling": "handler_3_1672038559153"
+    },
+    {
+      "type": "standard",
+      "title": "Thanks",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "It was my pleasure to assist you."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#thankyou",
+      "dialog_node": "node_10_1670409397423",
+      "previous_sibling": "node_4_1671780177520"
+    },
+    {
+      "type": "standard",
+      "title": "bye",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Have a great day ahead!!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Goodbye",
+      "dialog_node": "node_3_1670409585902",
+      "previous_sibling": "node_10_1670409397423"
+    },
+    {
+      "type": "standard",
+      "actions": [
+        {
+          "name": "main_webhook",
+          "type": "webhook",
+          "parameters": {
+            "language": "$language",
+            "user_input": " <? input_text?>"
+          },
+          "result_variable": "webhook_result_1"
+        }
+      ],
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "$language",
+      "digress_in": "returns",
+      "dialog_node": "node_3_1671816519863",
+      "digress_out": "allow_all",
+      "previous_sibling": "node_4_1671779356053"
+    },
+    {
+      "type": "frame",
+      "title": "Welcome!!",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#greetings",
+      "digress_in": "returns",
+      "dialog_node": "node_4_1671779356053",
+      "digress_out": "allow_all",
+      "digress_out_slots": "allow_all"
+    },
+    {
+      "type": "standard",
+      "title": "icebreakers",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I am good, thank you. How are you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#icebreakers",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_4_1671780177520",
+      "previous_sibling": "node_3_1671816519863"
+    },
+    {
+      "type": "response_condition",
+      "output": {},
+      "parent": "Anything else",
+      "disabled": true,
+      "conditions": "$webhook_result_2",
+      "dialog_node": "response_10_1667221383600",
+      "previous_sibling": "response_4_1667221366990"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I didn't get your meaning."
+              },
+              {
+                "text": "Can you reword your statement? I'm not understanding."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "Anything else",
+      "disabled": true,
+      "dialog_node": "response_2_1667221365194"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<? $webhook_result_1.extract ?>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1671816519863",
+      "conditions": "$webhook_result_1",
+      "dialog_node": "response_3_1671819478590",
+      "previous_sibling": "slot_6_1671820127798"
+    },
+    {
+      "type": "response_condition",
+      "output": {},
+      "parent": "Anything else",
+      "disabled": true,
+      "conditions": "anything_else",
+      "dialog_node": "response_4_1667221366990",
+      "previous_sibling": "response_6_1667221366554"
+    },
+    {
+      "type": "response_condition",
+      "parent": "node_3_1671816519863",
+      "conditions": "",
+      "dialog_node": "response_4_1671819480776",
+      "previous_sibling": "response_3_1671819478590"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Language set to English"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1671779356053",
+      "conditions": "@language:english",
+      "dialog_node": "response_4_1672069087964",
+      "previous_sibling": "response_5_1672040106584"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Idioma establecido en español"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1671779356053",
+      "conditions": "@language:spanish",
+      "dialog_node": "response_5_1672040106584"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Language set to German"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1671779356053",
+      "conditions": "@language:German",
+      "dialog_node": "response_5_1673005224119",
+      "previous_sibling": "response_8_1673004745238"
+    },
+    {
+      "type": "response_condition",
+      "output": {},
+      "parent": "Anything else",
+      "disabled": true,
+      "conditions": "$action_result_2",
+      "dialog_node": "response_6_1667221366554",
+      "previous_sibling": "response_2_1667221365194"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Language set to French"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1671779356053",
+      "conditions": "@language:french",
+      "dialog_node": "response_8_1673004745238",
+      "previous_sibling": "response_4_1672069087964"
+    },
+    {
+      "type": "slot",
+      "parent": "node_3_1671816519863",
+      "dialog_node": "slot_6_1671820127798"
+    },
+    {
+      "type": "slot",
+      "parent": "node_4_1671779356053",
+      "variable": "$keywords",
+      "dialog_node": "slot_6_1672038559152",
+      "previous_sibling": "slot_7_1671815951474"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_4_1671779356053",
+      "variable": "$language",
+      "dialog_node": "slot_7_1671815951474",
+      "previous_sibling": "response_5_1673005224119"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "nlp": {
+      "model": "latest"
+    },
+    "off_topic": {
+      "enabled": true
+    },
+    "auto_learn": {
+      "apply": true
+    },
+    "disambiguation": {
+      "prompt": "Did you mean:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "None of the above"
+    },
+    "human_agent_assist": {
+      "prompt": "Did you mean:"
+    },
+    "intent_classification": {
+      "training_backend_version": "v2"
+    },
+    "spelling_auto_correct": true
+  },
+  "learning_opt_out": false,
+  "name": "Keep Me Updated",
+  "language": "en",
+  "description": ""
+}
