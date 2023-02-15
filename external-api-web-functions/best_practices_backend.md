@@ -13,7 +13,9 @@ This document covers Demo instructions along with an example use-case which will
 
 _Please refer back to these instructions for the demo to understand what you need to do once Watson Assistant is invoked_
 
-To launch the Demo [click here](https://web-chat.global.assistant.watson.appdomain.cloud/preview.html?region=us-south&integrationID=ca41cbda-baad-4107-9f28-d7e7f0281000&serviceInstanceID=784de2c7-96f2-467c-b510-500974e01e5d)
+To launch the Demo [click here](https://web-chat.global.assistant.watson.appdomain.cloud/preview.html?backgroundImageURL=https%3A%2F%2Fus-south.assistant.watson.cloud.ibm.com%2Fpublic%2Fimages%2Fupx-0b052c85-f4f1-49fc-8133-27d976bda2fc%3A%3A1c6e72ab-0cf5-4162-a429-08e4aca46122&integrationID=9c2e4008-c265-45ae-8025-6fe1e085cf32&region=us-south&serviceInstanceID=0b052c85-f4f1-49fc-8133-27d976bda2fc)
+
+
 
 Once it is up, reach to the bottom right corner and click on below icon:
 
