@@ -7,7 +7,7 @@ You are provided with the information needed to set up a Watson Assistant instan
 <h4>You will find the following assets in this collection:</h4>
 
 1. Value Deck: Start Your Journey Here ([view the Deck](https://github.com/ibm-build-lab/Watson-Assistant/blob/main/external-api-web-functions/Watson%20Assistant%20Value%20Deck.pdf))
-2. See it: Video Overview of an Asset ([launch the Video](https://ibm.box.com/s/y2ewu4p1owgmjzetiyvjbg0lvjkvzh3d)) 
+2. See it: Video Overview of an Asset ([launch the Video](https://ibm.box.com/s/sexitrtfyhbdt1rdyo8c35k508jqu6cs)) 
 3. Learn It: Watson Assistant Provisioning ([view the Doc](https://github.com/ibm-build-lab/Watson-Assistant/blob/main/external-api-web-functions/Provisioning.md))
 4. Learn it: Step-By-Step Guide to Execute the Functionality ([view the Guide](https://github.com/ibm-build-lab/Watson-Assistant/blob/main/external-api-web-functions/ConfigurationGuide.md))
 
@@ -45,7 +45,7 @@ You are provided with the information needed to set up a Watson Assistant instan
 ##### See it: Video Overview of an Asset ([launch the Video](https://ibm.box.com/s/y2ewu4p1owgmjzetiyvjbg0lvjkvzh3d)) 
 - This video covers an overview of one of the use cases along with a functional flow
 
-[<img width="500" alt="image" src="https://user-images.githubusercontent.com/114666786/208032722-9d3c0ba1-7d35-4880-b47e-c7a3dc5c43f9.png">](https://ibm.box.com/s/y2ewu4p1owgmjzetiyvjbg0lvjkvzh3d)
+[<img width="500" alt="image" src="https://user-images.githubusercontent.com/114666786/208032722-9d3c0ba1-7d35-4880-b47e-c7a3dc5c43f9.png">](https://ibm.box.com/s/sexitrtfyhbdt1rdyo8c35k508jqu6cs)
 
 
 
