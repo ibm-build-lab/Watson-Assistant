@@ -31,10 +31,9 @@ You are provided with the information needed to set up a Watson Assistant instan
 
 [<img width="500" alt="image" src="https://user-images.githubusercontent.com/114666786/208032446-8fefea1f-468d-402a-a187-9a1bf231903b.png">](https://github.com/ibm-build-lab/Watson-Assistant/blob/main/external-api-web-functions/Watson%20Assistant%20Value%20Deck.pdf)
 
-
 <!--livesend-->
 <!--
-##### See it: Video Overview of an Asset ([launch the Video](https://livesend.ibm.com/i/KWRDA___eXqdoBrCfw6jq5L6AvCvIjxnEz7yjXzbbU6SrSQqdAxhBjA7kL3N1SkkvW3GZqaan___2oYS3lsbJOxElKcCiWLGvV74wuyakGkoOXUEQUALSIGN)) 
+##### See it: Video Overview of an Asset ([launch the Video](https://ibm.box.com/s/sexitrtfyhbdt1rdyo8c35k508jqu6cs)) 
 - This video covers an overview of one of the use cases along with a functional flow
 
 [<img width="500" alt="image" src="https://user-images.githubusercontent.com/114666786/208032722-9d3c0ba1-7d35-4880-b47e-c7a3dc5c43f9.png">](https://livesend.ibm.com/i/KWRDA___eXqdoBrCfw6jq5L6AvCvIjxnEz7yjXzbbU6SrSQqdAxhBjA7kL3N1SkkvW3GZqaan___2oYS3lsbJOxElKcCiWLGvV74wuyakGkoOXUEQUALSIGN)
